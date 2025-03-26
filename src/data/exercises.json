@@ -1,0 +1,4438 @@
+{
+  "exercises": [
+    {
+      "id": "chest-1",
+      "name": "Press de Banca",
+      "description": "Acuéstate en un banco plano, baja la barra hasta el pecho y empuja hacia arriba manteniendo los codos alineados.",
+      "image": "/imgs/ejercicios/chest-1.png",
+      "muscleGroup": "pecho",
+      "specificMuscles": ["pectoral mayor", "pectoral menor", "deltoides anterior", "tríceps"],
+      "equipment": ["barra", "banco plano", "discos"],
+      "difficulty": "intermedia",
+      "trainingType": ["fuerza", "hipertrofia"],
+      "estimatedDuration": "45-60 segundos por serie",
+      "recommendedSets": 4,
+      "recommendedReps": {
+        "beginner": "8-10",
+        "intermediate": "10-12",
+        "advanced": "12-15"
+      }
+    },
+    {
+      "id": "chest-2",
+      "name": "Press de Banca Inclinado",
+      "description": "Similar al press de banca pero en banco inclinado a 30-45 grados para enfatizar la parte superior del pecho.",
+      "image": "/imgs/ejercicios/chest-2.png",
+      "muscleGroup": "pecho",
+      "specificMuscles": ["pectoral mayor superior", "deltoides anterior", "tríceps"],
+      "equipment": ["barra", "banco inclinado", "discos"],
+      "difficulty": "intermedia",
+      "trainingType": ["fuerza", "hipertrofia"],
+      "estimatedDuration": "45-60 segundos por serie",
+      "recommendedSets": 4,
+      "recommendedReps": {
+        "beginner": "8-10",
+        "intermediate": "10-12",
+        "advanced": "12-15"
+      }
+    },
+    {
+      "id": "chest-3",
+      "name": "Press de Banca Declinado",
+      "description": "Press de banca en banco declinado para enfatizar la parte inferior del pecho.",
+      "image": "/imgs/ejercicios/chest-3.png",
+      "muscleGroup": "pecho",
+      "specificMuscles": ["pectoral mayor inferior", "tríceps"],
+      "equipment": ["barra", "banco declinado", "discos"],
+      "difficulty": "intermedia",
+      "trainingType": ["fuerza", "hipertrofia"],
+      "estimatedDuration": "45-60 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "8-10",
+        "intermediate": "10-12",
+        "advanced": "12-15"
+      }
+    },
+    {
+      "id": "chest-4",
+      "name": "Aperturas con Mancuernas",
+      "description": "Acostado en banco plano, realizar un movimiento de apertura con mancuernas manteniendo los codos ligeramente flexionados.",
+      "image": "/imgs/ejercicios/chest-4.png",
+      "muscleGroup": "pecho",
+      "specificMuscles": ["pectoral mayor", "pectoral menor"],
+      "equipment": ["mancuernas", "banco plano"],
+      "difficulty": "intermedia",
+      "trainingType": ["hipertrofia"],
+      "estimatedDuration": "40-50 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "10-12",
+        "intermediate": "12-15",
+        "advanced": "15-20"
+      }
+    },
+    {
+      "id": "chest-5",
+      "name": "Flexiones de Pecho",
+      "description": "Ejercicio con peso corporal, bajar el cuerpo manteniendo una línea recta y empujar hacia arriba.",
+      "image": "/imgs/ejercicios/chest-5.png",
+      "muscleGroup": "pecho",
+      "specificMuscles": ["pectoral mayor", "tríceps", "deltoides anterior"],
+      "equipment": ["ninguno"],
+      "difficulty": "principiante",
+      "trainingType": ["fuerza", "resistencia"],
+      "estimatedDuration": "30-45 segundos por serie",
+      "recommendedSets": 4,
+      "recommendedReps": {
+        "beginner": "8-12",
+        "intermediate": "15-20",
+        "advanced": "25-30"
+      }
+    },
+    {
+      "id": "chest-6",
+      "name": "Press con Mancuernas",
+      "description": "Press de banca utilizando mancuernas en lugar de barra para mayor rango de movimiento.",
+      "image": "/imgs/ejercicios/chest-6.png",
+      "muscleGroup": "pecho",
+      "specificMuscles": ["pectoral mayor", "deltoides anterior", "tríceps"],
+      "equipment": ["mancuernas", "banco plano"],
+      "difficulty": "intermedia",
+      "trainingType": ["fuerza", "hipertrofia"],
+      "estimatedDuration": "45-60 segundos por serie",
+      "recommendedSets": 4,
+      "recommendedReps": {
+        "beginner": "8-10",
+        "intermediate": "10-12",
+        "advanced": "12-15"
+      }
+    },
+    {
+      "id": "chest-7",
+      "name": "Aperturas en Polea",
+      "description": "De pie entre dos poleas altas, realizar un movimiento de apertura hacia el centro del cuerpo.",
+      "image": "/imgs/ejercicios/chest-7.png",
+      "muscleGroup": "pecho",
+      "specificMuscles": ["pectoral mayor", "pectoral menor"],
+      "equipment": ["máquina de poleas"],
+      "difficulty": "principiante",
+      "trainingType": ["hipertrofia"],
+      "estimatedDuration": "40-50 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "12-15",
+        "intermediate": "15-20",
+        "advanced": "20-25"
+      }
+    },
+    {
+      "id": "chest-8",
+      "name": "Press en Máquina Smith",
+      "description": "Press de banca realizado en máquina Smith para mayor estabilidad y control del movimiento.",
+      "image": "/imgs/ejercicios/chest-8.png",
+      "muscleGroup": "pecho",
+      "specificMuscles": ["pectoral mayor", "deltoides anterior", "tríceps"],
+      "equipment": ["máquina Smith", "banco plano"],
+      "difficulty": "principiante",
+      "trainingType": ["fuerza", "hipertrofia"],
+      "estimatedDuration": "45-60 segundos por serie",
+      "recommendedSets": 4,
+      "recommendedReps": {
+        "beginner": "10-12",
+        "intermediate": "12-15",
+        "advanced": "15-18"
+      }
+    },
+    {
+      "id": "chest-9",
+      "name": "Fondos en Paralelas",
+      "description": "Ejercicio en barras paralelas, descender el cuerpo flexionando los codos y volver a subir.",
+      "image": "/imgs/ejercicios/chest-9.png",
+      "muscleGroup": "pecho",
+      "specificMuscles": ["pectoral mayor inferior", "tríceps", "deltoides anterior"],
+      "equipment": ["barras paralelas"],
+      "difficulty": "avanzada",
+      "trainingType": ["fuerza", "hipertrofia"],
+      "estimatedDuration": "30-45 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "5-8",
+        "intermediate": "8-12",
+        "advanced": "12-15"
+      }
+    },
+    {
+      "id": "chest-10",
+      "name": "Press Hammer",
+      "description": "Press de pecho en máquina Hammer Strength, que permite un movimiento convergente natural.",
+      "image": "/imgs/ejercicios/chest-10.png",
+      "muscleGroup": "pecho",
+      "specificMuscles": ["pectoral mayor", "deltoides anterior", "tríceps"],
+      "equipment": ["máquina Hammer"],
+      "difficulty": "principiante",
+      "trainingType": ["hipertrofia"],
+      "estimatedDuration": "45-60 segundos por serie",
+      "recommendedSets": 4,
+      "recommendedReps": {
+        "beginner": "12-15",
+        "intermediate": "10-12",
+        "advanced": "8-10"
+      }
+    },
+    {
+      "id": "chest-11",
+      "name": "Press Inclinado con Mancuernas",
+      "description": "Similar al press inclinado con barra pero usando mancuernas para mayor rango de movimiento y activación muscular independiente.",
+      "image": "/imgs/ejercicios/chest-11.png",
+      "muscleGroup": "pecho",
+      "specificMuscles": ["pectoral mayor superior", "deltoides anterior", "tríceps"],
+      "equipment": ["mancuernas", "banco inclinado"],
+      "difficulty": "intermedia",
+      "trainingType": ["hipertrofia", "fuerza"],
+      "estimatedDuration": "45-60 segundos por serie",
+      "recommendedSets": 4,
+      "recommendedReps": {
+        "beginner": "8-10",
+        "intermediate": "10-12",
+        "advanced": "12-15"
+      }
+    },
+    {
+      "id": "chest-12",
+      "name": "Aperturas Inclinadas con Mancuernas",
+      "description": "Aperturas realizadas en banco inclinado para enfatizar la parte superior del pecho.",
+      "image": "/imgs/ejercicios/chest-12.png",
+      "muscleGroup": "pecho",
+      "specificMuscles": ["pectoral mayor superior", "pectoral menor"],
+      "equipment": ["mancuernas", "banco inclinado"],
+      "difficulty": "intermedia",
+      "trainingType": ["hipertrofia"],
+      "estimatedDuration": "40-50 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "10-12",
+        "intermediate": "12-15",
+        "advanced": "15-18"
+      }
+    },
+    {
+      "id": "chest-13",
+      "name": "Aperturas en Polea Baja",
+      "description": "De pie frente a poleas bajas, realizar un movimiento de apertura ascendente hacia el centro.",
+      "image": "/imgs/ejercicios/chest-13.png",
+      "muscleGroup": "pecho",
+      "specificMuscles": ["pectoral mayor inferior", "pectoral menor"],
+      "equipment": ["máquina de poleas"],
+      "difficulty": "intermedia",
+      "trainingType": ["hipertrofia"],
+      "estimatedDuration": "40-50 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "12-15",
+        "intermediate": "15-18",
+        "advanced": "18-20"
+      }
+    },
+    {
+      "id": "chest-14",
+      "name": "Flexiones Diamante",
+      "description": "Flexiones con las manos juntas formando un diamante, enfocando más el trabajo en la parte interna del pecho.",
+      "image": "/imgs/ejercicios/chest-14.png",
+      "muscleGroup": "pecho",
+      "specificMuscles": ["pectoral mayor interno", "tríceps"],
+      "equipment": ["ninguno"],
+      "difficulty": "intermedia",
+      "trainingType": ["fuerza", "resistencia"],
+      "estimatedDuration": "30-45 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "6-8",
+        "intermediate": "10-12",
+        "advanced": "15-20"
+      }
+    },
+    {
+      "id": "chest-15",
+      "name": "Flexiones con Pies Elevados",
+      "description": "Flexiones tradicionales con los pies elevados sobre un banco o plataforma para mayor énfasis en la parte superior del pecho.",
+      "image": "/imgs/ejercicios/chest-15.png",
+      "muscleGroup": "pecho",
+      "specificMuscles": ["pectoral mayor superior", "deltoides anterior", "tríceps"],
+      "equipment": ["banco o plataforma elevada"],
+      "difficulty": "intermedia",
+      "trainingType": ["fuerza", "resistencia"],
+      "estimatedDuration": "30-45 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "8-10",
+        "intermediate": "12-15",
+        "advanced": "20-25"
+      }
+    },
+    {
+      "id": "chest-16",
+      "name": "Press Guillotina",
+      "description": "Variación del press de banca donde la barra desciende hacia la garganta/clavícula. Requiere experiencia y precaución.",
+      "image": "/imgs/ejercicios/chest-16.png",
+      "muscleGroup": "pecho",
+      "specificMuscles": ["pectoral mayor superior", "deltoides anterior"],
+      "equipment": ["barra", "banco plano", "discos"],
+      "difficulty": "avanzada",
+      "trainingType": ["hipertrofia"],
+      "estimatedDuration": "45-60 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "no recomendado",
+        "intermediate": "8-10",
+        "advanced": "10-12"
+      }
+    },
+    {
+      "id": "chest-17",
+      "name": "Pullover con Mancuerna",
+      "description": "Acostado en banco plano, bajar la mancuerna por detrás de la cabeza manteniendo los brazos ligeramente flexionados.",
+      "image": "/imgs/ejercicios/chest-17.png",
+      "muscleGroup": "pecho",
+      "specificMuscles": ["pectoral mayor", "dorsal ancho", "serrato"],
+      "equipment": ["mancuerna", "banco plano"],
+      "difficulty": "intermedia",
+      "trainingType": ["hipertrofia"],
+      "estimatedDuration": "40-50 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "10-12",
+        "intermediate": "12-15",
+        "advanced": "15-20"
+      }
+    },
+    {
+      "id": "chest-18",
+      "name": "Press de Banca con Agarre Cerrado",
+      "description": "Press de banca con las manos más juntas que el ancho de hombros, enfocando más el trabajo en la parte interna del pecho.",
+      "image": "/imgs/ejercicios/chest-18.png",
+      "muscleGroup": "pecho",
+      "specificMuscles": ["pectoral mayor interno", "tríceps"],
+      "equipment": ["barra", "banco plano", "discos"],
+      "difficulty": "intermedia",
+      "trainingType": ["fuerza", "hipertrofia"],
+      "estimatedDuration": "45-60 segundos por serie",
+      "recommendedSets": 4,
+      "recommendedReps": {
+        "beginner": "8-10",
+        "intermediate": "10-12",
+        "advanced": "12-15"
+      }
+    },
+    {
+      "id": "chest-19",
+      "name": "Flexiones con Palmada",
+      "description": "Flexiones explosivas donde se despegan las manos del suelo para dar una palmada en el aire.",
+      "image": "/imgs/ejercicios/chest-19.png",
+      "muscleGroup": "pecho",
+      "specificMuscles": ["pectoral mayor", "deltoides anterior", "tríceps"],
+      "equipment": ["ninguno"],
+      "difficulty": "avanzada",
+      "trainingType": ["potencia", "fuerza"],
+      "estimatedDuration": "30-45 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "no recomendado",
+        "intermediate": "5-8",
+        "advanced": "8-12"
+      }
+    },
+    {
+      "id": "chest-20",
+      "name": "Press en Máquina Convergente",
+      "description": "Press de pecho en máquina que permite un movimiento natural de convergencia hacia el centro.",
+      "image": "/imgs/ejercicios/chest-20.png",
+      "muscleGroup": "pecho",
+      "specificMuscles": ["pectoral mayor", "deltoides anterior", "tríceps"],
+      "equipment": ["máquina convergente"],
+      "difficulty": "principiante",
+      "trainingType": ["hipertrofia"],
+      "estimatedDuration": "45-60 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "12-15",
+        "intermediate": "10-12",
+        "advanced": "8-10"
+      }
+    },
+    {
+      "id": "chest-21",
+      "name": "Flexiones Archer",
+      "description": "Flexiones donde un brazo se extiende lateralmente mientras el otro realiza el empuje, alternando lados.",
+      "image": "/imgs/ejercicios/chest-21.png",
+      "muscleGroup": "pecho",
+      "specificMuscles": ["pectoral mayor", "deltoides anterior", "tríceps"],
+      "equipment": ["ninguno"],
+      "difficulty": "avanzada",
+      "trainingType": ["fuerza", "resistencia"],
+      "estimatedDuration": "30-45 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "no recomendado",
+        "intermediate": "6-8 por lado",
+        "advanced": "10-12 por lado"
+      }
+    },
+    {
+      "id": "chest-22",
+      "name": "Press con Banda Elástica",
+      "description": "Press de pecho utilizando bandas elásticas ancladas detrás de ti, ideal para entrenamiento en casa.",
+      "image": "/imgs/ejercicios/chest-22.png",
+      "muscleGroup": "pecho",
+      "specificMuscles": ["pectoral mayor", "deltoides anterior", "tríceps"],
+      "equipment": ["banda elástica"],
+      "difficulty": "principiante",
+      "trainingType": ["resistencia", "hipertrofia"],
+      "estimatedDuration": "45-60 segundos por serie",
+      "recommendedSets": 4,
+      "recommendedReps": {
+        "beginner": "12-15",
+        "intermediate": "15-20",
+        "advanced": "20-25"
+      }
+    },
+    {
+      "id": "chest-23",
+      "name": "Aperturas en TRX",
+      "description": "Aperturas realizadas con TRX o anillas, manteniendo tensión constante en el pecho.",
+      "image": "/imgs/ejercicios/chest-23.png",
+      "muscleGroup": "pecho",
+      "specificMuscles": ["pectoral mayor", "pectoral menor", "deltoides anterior"],
+      "equipment": ["TRX o anillas"],
+      "difficulty": "intermedia",
+      "trainingType": ["resistencia", "hipertrofia"],
+      "estimatedDuration": "40-50 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "8-10",
+        "intermediate": "12-15",
+        "advanced": "15-20"
+      }
+    },
+    {
+      "id": "chest-24",
+      "name": "Press Alternado con Mancuernas",
+      "description": "Press con mancuernas alternando brazos, lo que aumenta la activación del core y mejora la coordinación.",
+      "image": "/imgs/ejercicios/chest-24.png",
+      "muscleGroup": "pecho",
+      "specificMuscles": ["pectoral mayor", "deltoides anterior", "tríceps", "core"],
+      "equipment": ["mancuernas", "banco plano"],
+      "difficulty": "intermedia",
+      "trainingType": ["hipertrofia", "resistencia"],
+      "estimatedDuration": "45-60 segundos por serie",
+      "recommendedSets": 4,
+      "recommendedReps": {
+        "beginner": "8-10 por lado",
+        "intermediate": "10-12 por lado",
+        "advanced": "12-15 por lado"
+      }
+    },
+    {
+      "id": "chest-25",
+      "name": "Flexiones Hindú",
+      "description": "Flexiones donde se alterna entre posición alta y baja de plancha, creando un arco con el cuerpo.",
+      "image": "/imgs/ejercicios/chest-25.png",
+      "muscleGroup": "pecho",
+      "specificMuscles": ["pectoral mayor", "deltoides anterior", "tríceps", "core"],
+      "equipment": ["ninguno"],
+      "difficulty": "avanzada",
+      "trainingType": ["resistencia", "movilidad"],
+      "estimatedDuration": "30-45 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "5-8",
+        "intermediate": "10-12",
+        "advanced": "15-20"
+      }
+    },
+    {
+      "id": "chest-26",
+      "name": "Press de Banca con Pausa",
+      "description": "Press de banca tradicional pero manteniendo una pausa de 2-3 segundos cuando la barra toca el pecho, aumentando tiempo bajo tensión.",
+      "image": "/imgs/ejercicios/chest-26.png",
+      "muscleGroup": "pecho",
+      "specificMuscles": ["pectoral mayor", "deltoides anterior", "tríceps"],
+      "equipment": ["barra", "banco plano", "discos"],
+      "difficulty": "intermedia",
+      "trainingType": ["fuerza", "hipertrofia"],
+      "estimatedDuration": "45-60 segundos por serie",
+      "recommendedSets": 4,
+      "recommendedReps": {
+        "beginner": "6-8",
+        "intermediate": "8-10",
+        "advanced": "10-12"
+      }
+    },
+    {
+      "id": "chest-27",
+      "name": "Press de Banca con Resistencia Variable",
+      "description": "Press de banca utilizando cadenas o bandas para crear resistencia variable a lo largo del movimiento.",
+      "image": "/imgs/ejercicios/chest-27.png",
+      "muscleGroup": "pecho",
+      "specificMuscles": ["pectoral mayor", "deltoides anterior", "tríceps"],
+      "equipment": ["barra", "banco plano", "cadenas o bandas"],
+      "difficulty": "avanzada",
+      "trainingType": ["fuerza", "potencia"],
+      "estimatedDuration": "45-60 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "no recomendado",
+        "intermediate": "6-8",
+        "advanced": "8-10"
+      }
+    },
+    {
+      "id": "chest-28",
+      "name": "Press de Banca con Banda de Resistencia",
+      "description": "Press de banca tradicional con bandas elásticas añadidas para resistencia variable.",
+      "image": "/imgs/ejercicios/chest-28.png",
+      "muscleGroup": "pecho",
+      "specificMuscles": ["pectoral mayor", "tríceps", "deltoides anterior"],
+      "equipment": ["barra", "banco plano", "discos", "bandas elásticas"],
+      "difficulty": "avanzada",
+      "trainingType": ["fuerza", "hipertrofia"],
+      "estimatedDuration": "45-60 segundos por serie",
+      "recommendedSets": 4,
+      "recommendedReps": {
+        "beginner": "no recomendado",
+        "intermediate": "6-8",
+        "advanced": "8-10"
+      }
+    },
+    {
+      "id": "chest-29",
+      "name": "Flexiones con Peso Corporal en Anillas",
+      "description": "Flexiones realizadas en anillas gimnásticas, requiriendo mayor estabilización.",
+      "image": "/imgs/ejercicios/chest-29.png",
+      "muscleGroup": "pecho",
+      "specificMuscles": ["pectoral mayor", "tríceps", "deltoides anterior", "estabilizadores del core"],
+      "equipment": ["anillas gimnásticas"],
+      "difficulty": "avanzada",
+      "trainingType": ["fuerza", "hipertrofia"],
+      "estimatedDuration": "30-45 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "no recomendado",
+        "intermediate": "8-10",
+        "advanced": "12-15"
+      }
+    },
+    {
+      "id": "chest-30",
+      "name": "Press de Banca Isométrico",
+      "description": "Press de banca con pausas isométricas en diferentes ángulos durante el recorrido del movimiento.",
+      "image": "/imgs/ejercicios/chest-30.png",
+      "muscleGroup": "pecho",
+      "specificMuscles": ["pectoral mayor", "deltoides anterior", "tríceps"],
+      "equipment": ["barra", "banco plano", "discos"],
+      "difficulty": "avanzada",
+      "trainingType": ["fuerza", "hipertrofia"],
+      "estimatedDuration": "45-60 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "no recomendado",
+        "intermediate": "6-8",
+        "advanced": "8-10"
+      }
+    },   
+    {
+      "id": "back-1",
+      "name": "Dominadas",
+      "description": "Ejercicio de tracción vertical con peso corporal, agarrando la barra con las palmas hacia adelante.",
+      "image": "/imgs/ejercicios/back-1.png",
+      "muscleGroup": "espalda",
+      "specificMuscles": ["dorsal ancho", "redondo mayor", "romboides", "bíceps"],
+      "equipment": ["barra de dominadas"],
+      "difficulty": "intermedia",
+      "trainingType": ["fuerza", "hipertrofia"],
+      "estimatedDuration": "30-45 segundos por serie",
+      "recommendedSets": 4,
+      "recommendedReps": {
+        "beginner": "3-5",
+        "intermediate": "8-12",
+        "advanced": "12-15"
+      }
+    },
+    {
+      "id": "back-2",
+      "name": "Remo con Barra",
+      "description": "Flexión de codos tirando de una barra hacia el abdomen, inclinando el torso hacia adelante.",
+      "image": "/imgs/ejercicios/back-2.png",
+      "muscleGroup": "espalda",
+      "specificMuscles": ["dorsal ancho", "romboides", "trapecio", "bíceps"],
+      "equipment": ["barra", "discos"],
+      "difficulty": "intermedia",
+      "trainingType": ["fuerza", "hipertrofia"],
+      "estimatedDuration": "45-60 segundos por serie",
+      "recommendedSets": 4,
+      "recommendedReps": {
+        "beginner": "8-10",
+        "intermediate": "10-12",
+        "advanced": "12-15"
+      }
+    },
+    {
+      "id": "back-3",
+      "name": "Jalón al Pecho",
+      "description": "Tracción vertical en polea alta, llevando la barra hacia el pecho.",
+      "image": "/imgs/ejercicios/back-3.png",
+      "muscleGroup": "espalda",
+      "specificMuscles": ["dorsal ancho", "redondo mayor", "romboides", "bíceps"],
+      "equipment": ["máquina de poleas", "barra"],
+      "difficulty": "principiante",
+      "trainingType": ["hipertrofia"],
+      "estimatedDuration": "45-60 segundos por serie",
+      "recommendedSets": 4,
+      "recommendedReps": {
+        "beginner": "10-12",
+        "intermediate": "12-15",
+        "advanced": "15-20"
+      }
+    },
+    {
+      "id": "back-4",
+      "name": "Remo con Mancuerna",
+      "description": "Remo unilateral apoyando una rodilla y mano en banco, trabajando un lado a la vez.",
+      "image": "/imgs/ejercicios/back-4.png",
+      "muscleGroup": "espalda",
+      "specificMuscles": ["dorsal ancho", "romboides", "trapecio medio", "bíceps"],
+      "equipment": ["mancuerna", "banco"],
+      "difficulty": "principiante",
+      "trainingType": ["hipertrofia", "fuerza"],
+      "estimatedDuration": "40-50 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "10-12",
+        "intermediate": "12-15",
+        "advanced": "15-18"
+      }
+    },
+    {
+      "id": "back-5",
+      "name": "Peso Muerto",
+      "description": "Levantamiento de barra desde el suelo trabajando toda la cadena posterior.",
+      "image": "/imgs/ejercicios/back-5.png",
+      "muscleGroup": "espalda",
+      "specificMuscles": ["erector espinal", "dorsal ancho", "trapecio", "isquiotibiales", "glúteos"],
+      "equipment": ["barra", "discos"],
+      "difficulty": "avanzada",
+      "trainingType": ["fuerza", "hipertrofia"],
+      "estimatedDuration": "60-90 segundos por serie",
+      "recommendedSets": 4,
+      "recommendedReps": {
+        "beginner": "5-8",
+        "intermediate": "8-10",
+        "advanced": "10-12"
+      }
+    },
+    {
+      "id": "back-6",
+      "name": "Dominadas Supinas",
+      "description": "Dominadas con agarre inverso (palmas hacia ti), enfocando más el trabajo en la parte baja del dorsal y bíceps.",
+      "image": "/imgs/ejercicios/back-6.png",
+      "muscleGroup": "espalda",
+      "specificMuscles": ["dorsal ancho inferior", "bíceps", "redondo mayor"],
+      "equipment": ["barra de dominadas"],
+      "difficulty": "intermedia",
+      "trainingType": ["fuerza", "hipertrofia"],
+      "estimatedDuration": "30-45 segundos por serie",
+      "recommendedSets": 4,
+      "recommendedReps": {
+        "beginner": "4-6",
+        "intermediate": "8-10",
+        "advanced": "12-15"
+      }
+    },
+    {
+      "id": "back-7",
+      "name": "Remo en Máquina",
+      "description": "Remo horizontal en máquina, permitiendo un movimiento estable y controlado.",
+      "image": "/imgs/ejercicios/back-7.png",
+      "muscleGroup": "espalda",
+      "specificMuscles": ["dorsal ancho", "romboides", "trapecio medio", "bíceps"],
+      "equipment": ["máquina de remo"],
+      "difficulty": "principiante",
+      "trainingType": ["hipertrofia"],
+      "estimatedDuration": "45-60 segundos por serie",
+      "recommendedSets": 4,
+      "recommendedReps": {
+        "beginner": "12-15",
+        "intermediate": "10-12",
+        "advanced": "8-10"
+      }
+    },
+    {
+      "id": "back-8",
+      "name": "Remo en T con Barra",
+      "description": "Remo con barra inclinado hacia adelante, levantando la barra hacia el pecho manteniendo los codos altos.",
+      "image": "/imgs/ejercicios/back-8.png",
+      "muscleGroup": "espalda",
+      "specificMuscles": ["dorsal ancho", "romboides", "trapecio", "deltoides posterior"],
+      "equipment": ["barra", "discos", "máquina de remo en T"],
+      "difficulty": "intermedia",
+      "trainingType": ["fuerza", "hipertrofia"],
+      "estimatedDuration": "45-60 segundos por serie",
+      "recommendedSets": 4,
+      "recommendedReps": {
+        "beginner": "8-10",
+        "intermediate": "10-12",
+        "advanced": "12-15"
+      }
+    },
+    {
+      "id": "back-9",
+      "name": "Pullover con Barra",
+      "description": "Acostado en banco plano, llevar la barra por detrás de la cabeza estirando los dorsales.",
+      "image": "/imgs/ejercicios/back-9.png",
+      "muscleGroup": "espalda",
+      "specificMuscles": ["dorsal ancho", "serrato anterior", "pectoral mayor"],
+      "equipment": ["barra", "banco plano"],
+      "difficulty": "intermedia",
+      "trainingType": ["hipertrofia"],
+      "estimatedDuration": "40-50 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "10-12",
+        "intermediate": "12-15",
+        "advanced": "15-18"
+      }
+    },
+    {
+      "id": "back-10",
+      "name": "Hiperextensiones",
+      "description": "Ejercicio para fortalecer la parte baja de la espalda en banco específico.",
+      "image": "/imgs/ejercicios/back-10.png",
+      "muscleGroup": "espalda",
+      "specificMuscles": ["erector espinal", "glúteos", "isquiotibiales"],
+      "equipment": ["banco de hiperextensiones"],
+      "difficulty": "principiante",
+      "trainingType": ["fuerza", "resistencia"],
+      "estimatedDuration": "30-45 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "12-15",
+        "intermediate": "15-20",
+        "advanced": "20-25"
+      }
+    },
+    {
+      "id": "back-11",
+      "name": "Remo con Cable Unilateral",
+      "description": "Remo realizado con polea baja, trabajando un lado a la vez para mayor concentración.",
+      "image": "/imgs/ejercicios/back-11.png",
+      "muscleGroup": "espalda",
+      "specificMuscles": ["dorsal ancho", "romboides", "trapecio medio", "bíceps"],
+      "equipment": ["máquina de poleas"],
+      "difficulty": "principiante",
+      "trainingType": ["hipertrofia"],
+      "estimatedDuration": "40-50 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "12-15",
+        "intermediate": "15-18",
+        "advanced": "18-20"
+      }
+    },
+    {
+      "id": "back-12",
+      "name": "Dominadas con Agarre Neutro",
+      "description": "Dominadas con las palmas enfrentadas entre sí, ideal para principiantes y desarrollo del dorsal.",
+      "image": "/imgs/ejercicios/back-12.png",
+      "muscleGroup": "espalda",
+      "specificMuscles": ["dorsal ancho", "bíceps", "braquial anterior"],
+      "equipment": ["barra de dominadas multiagarre"],
+      "difficulty": "intermedia",
+      "trainingType": ["fuerza", "hipertrofia"],
+      "estimatedDuration": "30-45 segundos por serie",
+      "recommendedSets": 4,
+      "recommendedReps": {
+        "beginner": "5-8",
+        "intermediate": "8-12",
+        "advanced": "12-15"
+      }
+    },
+    {
+      "id": "back-13",
+      "name": "Face Pull",
+      "description": "Ejercicio de tracción horizontal enfocado en la parte posterior de los hombros y trapecio superior.",
+      "image": "/imgs/ejercicios/back-13.png",
+      "muscleGroup": "espalda",
+      "specificMuscles": ["trapecio", "deltoides posterior", "romboides"],
+      "equipment": ["máquina de poleas", "cuerda"],
+      "difficulty": "principiante",
+      "trainingType": ["hipertrofia", "resistencia"],
+      "estimatedDuration": "40-50 segundos por serie",
+      "recommendedSets": 4,
+      "recommendedReps": {
+        "beginner": "12-15",
+        "intermediate": "15-20",
+        "advanced": "20-25"
+      }
+    },
+    {
+      "id": "back-14",
+      "name": "Good Morning",
+      "description": "Flexión de cadera con barra en la espalda, fortaleciendo la cadena posterior.",
+      "image": "/imgs/ejercicios/back-14.png",
+      "muscleGroup": "espalda",
+      "specificMuscles": ["erector espinal", "isquiotibiales", "glúteos"],
+      "equipment": ["barra", "discos"],
+      "difficulty": "intermedia",
+      "trainingType": ["fuerza"],
+      "estimatedDuration": "45-60 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "8-10",
+        "intermediate": "10-12",
+        "advanced": "12-15"
+      }
+    },
+    {
+      "id": "back-15",
+      "name": "Remo Meadows",
+      "description": "Variación del remo con barra donde se mantiene una posición más vertical y los codos más pegados al cuerpo.",
+      "image": "/imgs/ejercicios/back-15.png",
+      "muscleGroup": "espalda",
+      "specificMuscles": ["dorsal ancho", "romboides", "trapecio", "bíceps"],
+      "equipment": ["barra", "discos"],
+      "difficulty": "avanzada",
+      "trainingType": ["hipertrofia"],
+      "estimatedDuration": "45-60 segundos por serie",
+      "recommendedSets": 4,
+      "recommendedReps": {
+        "beginner": "8-10",
+        "intermediate": "10-12",
+        "advanced": "12-15"
+      }
+    },
+    {
+      "id": "back-16",
+      "name": "Remo Pendlay",
+      "description": "Remo con barra desde el suelo, manteniendo la espalda paralela al suelo y levantando explosivamente.",
+      "image": "/imgs/ejercicios/back-16.png",
+      "muscleGroup": "espalda",
+      "specificMuscles": ["dorsal ancho", "romboides", "trapecio", "bíceps"],
+      "equipment": ["barra", "discos"],
+      "difficulty": "avanzada",
+      "trainingType": ["fuerza", "potencia"],
+      "estimatedDuration": "45-60 segundos por serie",
+      "recommendedSets": 4,
+      "recommendedReps": {
+        "beginner": "no recomendado",
+        "intermediate": "6-8",
+        "advanced": "8-10"
+      }
+    },
+    {
+      "id": "back-17",
+      "name": "Dominadas Tras Nuca",
+      "description": "Dominadas llevando la barra detrás de la cabeza, enfocando más el trabajo en la parte superior de la espalda.",
+      "image": "/imgs/ejercicios/back-17.png",
+      "muscleGroup": "espalda",
+      "specificMuscles": ["dorsal ancho", "trapecio", "romboides"],
+      "equipment": ["barra de dominadas"],
+      "difficulty": "avanzada",
+      "trainingType": ["hipertrofia"],
+      "estimatedDuration": "30-45 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "no recomendado",
+        "intermediate": "6-8",
+        "advanced": "10-12"
+      }
+    },
+    {
+      "id": "back-18",
+      "name": "Jalón al Pecho Agarre Cerrado",
+      "description": "Jalón en polea alta con agarre cerrado, enfocando más el trabajo en la parte inferior del dorsal.",
+      "image": "/imgs/ejercicios/back-18.png",
+      "muscleGroup": "espalda",
+      "specificMuscles": ["dorsal ancho inferior", "redondo mayor", "bíceps"],
+      "equipment": ["máquina de poleas", "barra corta"],
+      "difficulty": "intermedia",
+      "trainingType": ["hipertrofia"],
+      "estimatedDuration": "45-60 segundos por serie",
+      "recommendedSets": 4,
+      "recommendedReps": {
+        "beginner": "10-12",
+        "intermediate": "12-15",
+        "advanced": "15-18"
+      }
+    },
+    {
+      "id": "back-19",
+      "name": "Remo Invertido en Smith",
+      "description": "Remo realizado bajo la máquina Smith, ideal para principiantes por su estabilidad.",
+      "image": "/imgs/ejercicios/back-19.png",
+      "muscleGroup": "espalda",
+      "specificMuscles": ["dorsal ancho", "romboides", "trapecio", "bíceps"],
+      "equipment": ["máquina Smith"],
+      "difficulty": "principiante",
+      "trainingType": ["hipertrofia"],
+      "estimatedDuration": "45-60 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "12-15",
+        "intermediate": "10-12",
+        "advanced": "8-10"
+      }
+    },
+    {
+      "id": "back-20",
+      "name": "Peso Muerto Rumano",
+      "description": "Variación del peso muerto que enfatiza los isquiotibiales y la parte baja de la espalda.",
+      "image": "/imgs/ejercicios/back-20.png",
+      "muscleGroup": "espalda",
+      "specificMuscles": ["isquiotibiales", "glúteos"],
+      "equipment": ["barra", "discos"],
+      "difficulty": "intermedia",
+      "trainingType": ["fuerza", "hipertrofia"],
+      "estimatedDuration": "45-60 segundos por serie",
+      "recommendedSets": 4,
+      "recommendedReps": {
+        "beginner": "8-10",
+        "intermediate": "10-12",
+        "advanced": "12-15"
+      }
+    },
+    {
+      "id": "back-21",
+      "name": "Remo con Banda Elástica",
+      "description": "Remo horizontal utilizando una banda elástica anclada, ideal para entrenamiento en casa.",
+      "image": "/imgs/ejercicios/back-21.png",
+      "muscleGroup": "espalda",
+      "specificMuscles": ["dorsal ancho", "romboides", "trapecio", "bíceps"],
+      "equipment": ["banda elástica"],
+      "difficulty": "principiante",
+      "trainingType": ["resistencia", "hipertrofia"],
+      "estimatedDuration": "40-50 segundos por serie",
+      "recommendedSets": 4,
+      "recommendedReps": {
+        "beginner": "12-15",
+        "intermediate": "15-20",
+        "advanced": "20-25"
+      }
+    },
+    {
+      "id": "back-22",
+      "name": "Dominadas Asistidas",
+      "description": "Dominadas con ayuda de una máquina de contrapeso o banda elástica para reducir el peso corporal.",
+      "image": "/imgs/ejercicios/back-22.png",
+      "muscleGroup": "espalda",
+      "specificMuscles": ["dorsal ancho", "redondo mayor", "bíceps"],
+      "equipment": ["máquina de dominadas asistidas", "banda elástica"],
+      "difficulty": "principiante",
+      "trainingType": ["fuerza", "hipertrofia"],
+      "estimatedDuration": "30-45 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "8-10",
+        "intermediate": "10-12",
+        "advanced": "12-15"
+      }
+    },
+    {
+      "id": "back-23",
+      "name": "Jalón en Polea con Cuerda",
+      "description": "Jalón vertical utilizando una cuerda, permitiendo mayor rango de movimiento y rotación de las muñecas.",
+      "image": "/imgs/ejercicios/back-23.png",
+      "muscleGroup": "espalda",
+      "specificMuscles": ["dorsal ancho", "redondo mayor", "bíceps"],
+      "equipment": ["máquina de poleas", "cuerda"],
+      "difficulty": "principiante",
+      "trainingType": ["hipertrofia"],
+      "estimatedDuration": "45-60 segundos por serie",
+      "recommendedSets": 4,
+      "recommendedReps": {
+        "beginner": "12-15",
+        "intermediate": "15-18",
+        "advanced": "18-20"
+      }
+    },
+    {
+      "id": "back-24",
+      "name": "Remo en Máquina Hammer",
+      "description": "Remo en máquina con agarre neutral, ideal para principiantes y desarrollo uniforme.",
+      "image": "/imgs/ejercicios/back-24.png",
+      "muscleGroup": "espalda",
+      "specificMuscles": ["dorsal ancho", "romboides", "trapecio", "bíceps"],
+      "equipment": ["máquina hammer"],
+      "difficulty": "principiante",
+      "trainingType": ["hipertrofia"],
+      "estimatedDuration": "45-60 segundos por serie",
+      "recommendedSets": 4,
+      "recommendedReps": {
+        "beginner": "12-15",
+        "intermediate": "10-12",
+        "advanced": "8-10"
+      }
+    },
+    {
+      "id": "back-25",
+      "name": "Superman",
+      "description": "Ejercicio en el suelo elevando simultáneamente brazos y piernas, fortaleciendo la parte baja de la espalda.",
+      "image": "/imgs/ejercicios/back-25.png",
+      "muscleGroup": "espalda",
+      "specificMuscles": ["erector espinal", "glúteos", "deltoides posterior"],
+      "equipment": ["ninguno"],
+      "difficulty": "principiante",
+      "trainingType": ["resistencia", "rehabilitación"],
+      "estimatedDuration": "30-45 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "10-12",
+        "intermediate": "12-15",
+        "advanced": "15-20"
+      }
+    },
+    {
+      "id": "back-26",
+      "name": "Remo Gironda",
+      "description": "Remo con barra realizado con el torso paralelo al suelo y los codos pegados al cuerpo.",
+      "image": "/imgs/ejercicios/back-26.png",
+      "muscleGroup": "espalda",
+      "specificMuscles": ["dorsal ancho", "romboides", "trapecio medio"],
+      "equipment": ["barra", "discos"],
+      "difficulty": "avanzada",
+      "trainingType": ["hipertrofia"],
+      "estimatedDuration": "45-60 segundos por serie",
+      "recommendedSets": 4,
+      "recommendedReps": {
+        "beginner": "no recomendado",
+        "intermediate": "8-10",
+        "advanced": "10-12"
+      }
+    },
+    {
+      "id": "back-27",
+      "name": "Remo en Banco Inclinado",
+      "description": "Remo con mancuernas tumbado boca abajo en un banco inclinado, permitiendo mayor rango de movimiento y aislamiento.",
+      "image": "/imgs/ejercicios/back-27.png",
+      "muscleGroup": "espalda",
+      "specificMuscles": ["dorsal ancho", "romboides", "trapecio medio", "deltoides posterior"],
+      "equipment": ["banco inclinado", "mancuernas"],
+      "difficulty": "intermedia",
+      "trainingType": ["hipertrofia"],
+      "estimatedDuration": "40-50 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "10-12",
+        "intermediate": "12-15",
+        "advanced": "15-18"
+      }
+    },
+    {
+      "id": "back-28",
+      "name": "Remo al Mentón",
+      "description": "Ejercicio vertical con barra o mancuernas, llevando el peso hacia el mentón.",
+      "image": "/imgs/ejercicios/back-28.png",
+      "muscleGroup": "espalda",
+      "specificMuscles": ["trapecio", "deltoides", "bíceps"],
+      "equipment": ["barra", "mancuernas"],
+      "difficulty": "intermedia",
+      "trainingType": ["hipertrofia"],
+      "estimatedDuration": "30-45 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "10-12",
+        "intermediate": "12-15",
+        "advanced": "15-18"
+      }
+    },
+    {
+      "id": "back-29",
+      "name": "Remo en TRX",
+      "description": "Remo horizontal utilizando el peso corporal con TRX o anillas.",
+      "image": "/imgs/ejercicios/back-29.png",
+      "muscleGroup": "espalda",
+      "specificMuscles": ["dorsal ancho", "romboides", "trapecio", "bíceps"],
+      "equipment": ["TRX"],
+      "difficulty": "principiante",
+      "trainingType": ["resistencia", "hipertrofia"],
+      "estimatedDuration": "40-50 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "10-15",
+        "intermediate": "15-20",
+        "advanced": "20-25"
+      }
+    },
+    {
+      "id": "back-30",
+      "name": "Remo Bajo con Agarre Ancho",
+      "description": "Remo en polea baja con barra larga y agarre más allá del ancho de hombros.",
+      "image": "/imgs/ejercicios/back-30.png",
+      "muscleGroup": "espalda",
+      "specificMuscles": ["dorsal ancho", "romboides", "trapecio medio"],
+      "equipment": ["máquina de poleas", "barra larga"],
+      "difficulty": "principiante",
+      "trainingType": ["hipertrofia"],
+      "estimatedDuration": "45-60 segundos por serie",
+      "recommendedSets": 4,
+      "recommendedReps": {
+        "beginner": "12-15",
+        "intermediate": "10-12",
+        "advanced": "8-10"
+      }
+    },
+    {
+      "id": "shoulder-1",
+      "name": "Press Militar con Barra",
+      "description": "Ejercicio básico de hombro, presionando una barra desde los hombros hasta la extensión completa por encima de la cabeza.",
+      "image": "/imgs/ejercicios/shoulder-1.png",
+      "muscleGroup": "hombro",
+      "specificMuscles": ["deltoides anterior", "deltoides medio", "deltoides posterior", "trapecio"],
+      "equipment": ["barra", "discos"],
+      "difficulty": "intermedia",
+      "trainingType": ["fuerza", "hipertrofia"],
+      "estimatedDuration": "45-60 segundos por serie",
+      "recommendedSets": 4,
+      "recommendedReps": {
+        "beginner": "8-10",
+        "intermediate": "10-12",
+        "advanced": "12-15"
+      }
+    },
+    {
+      "id": "shoulder-2",
+      "name": "Elevaciones Laterales",
+      "description": "De pie, elevar las mancuernas lateralmente hasta la altura de los hombros, enfocando el trabajo en el deltoides medio.",
+      "image": "/imgs/ejercicios/shoulder-2.png",
+      "muscleGroup": "hombro",
+      "specificMuscles": ["deltoides medio"],
+      "equipment": ["mancuernas"],
+      "difficulty": "principiante",
+      "trainingType": ["hipertrofia"],
+      "estimatedDuration": "40-50 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "12-15",
+        "intermediate": "15-18",
+        "advanced": "18-20"
+      }
+    },
+    {
+      "id": "shoulder-3",
+      "name": "Press Arnold",
+      "description": "Variación del press con mancuernas que incluye una rotación durante el movimiento, trabajando todos los deltoides.",
+      "image": "/imgs/ejercicios/shoulder-3.png",
+      "muscleGroup": "hombro",
+      "specificMuscles": ["deltoides anterior", "deltoides medio", "deltoides posterior"],
+      "equipment": ["mancuernas"],
+      "difficulty": "intermedia",
+      "trainingType": ["hipertrofia"],
+      "estimatedDuration": "45-60 segundos por serie",
+      "recommendedSets": 4,
+      "recommendedReps": {
+        "beginner": "8-10",
+        "intermediate": "10-12",
+        "advanced": "12-15"
+      }
+    },
+    {
+      "id": "shoulder-4",
+      "name": "Elevaciones Frontales",
+      "description": "Elevación frontal de mancuernas o barra hasta la altura de los hombros, enfocando el deltoides anterior.",
+      "image": "/imgs/ejercicios/shoulder-4.png",
+      "muscleGroup": "hombro",
+      "specificMuscles": ["deltoides anterior"],
+      "equipment": ["mancuernas", "barra"],
+      "difficulty": "principiante",
+      "trainingType": ["hipertrofia"],
+      "estimatedDuration": "40-50 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "12-15",
+        "intermediate": "15-18",
+        "advanced": "18-20"
+      }
+    },
+    {
+      "id": "shoulder-5",
+      "name": "Pájaros o Elevaciones Posteriores",
+      "description": "Inclinado sobre un banco, elevar las mancuernas lateralmente trabajando el deltoides posterior.",
+      "image": "/imgs/ejercicios/shoulder-5.png",
+      "muscleGroup": "hombro",
+      "specificMuscles": ["deltoides posterior", "trapecio medio"],
+      "equipment": ["mancuernas", "banco"],
+      "difficulty": "principiante",
+      "trainingType": ["hipertrofia"],
+      "estimatedDuration": "40-50 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "12-15",
+        "intermediate": "15-18",
+        "advanced": "18-20"
+      }
+    },
+    {
+      "id": "shoulder-6",
+      "name": "Press con Mancuernas",
+      "description": "Press de hombro con mancuernas, permitiendo un movimiento más natural y trabajo independiente.",
+      "image": "/imgs/ejercicios/shoulder-6.png",
+      "muscleGroup": "hombro",
+      "specificMuscles": ["deltoides anterior", "deltoides medio", "trapecio"],
+      "equipment": ["mancuernas"],
+      "difficulty": "principiante",
+      "trainingType": ["fuerza", "hipertrofia"],
+      "estimatedDuration": "45-60 segundos por serie",
+      "recommendedSets": 4,
+      "recommendedReps": {
+        "beginner": "10-12",
+        "intermediate": "12-15",
+        "advanced": "15-18"
+      }
+    },
+    {
+      "id": "shoulder-7",
+      "name": "Face Pull",
+      "description": "Tirón hacia la cara con cuerda en polea alta, excelente para deltoides posterior y rotadores.",
+      "image": "/imgs/ejercicios/shoulder-7.png",
+      "muscleGroup": "hombro",
+      "specificMuscles": ["deltoides posterior", "trapecio", "rotadores externos"],
+      "equipment": ["máquina de poleas", "cuerda"],
+      "difficulty": "principiante",
+      "trainingType": ["hipertrofia", "rehabilitación"],
+      "estimatedDuration": "40-50 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "12-15",
+        "intermediate": "15-20",
+        "advanced": "20-25"
+      }
+    },
+    {
+      "id": "shoulder-8",
+      "name": "Press Militar Tras Nuca",
+      "description": "Variación del press militar llevando la barra detrás de la cabeza. Requiere buena movilidad.",
+      "image": "/imgs/ejercicios/shoulder-8.png",
+      "muscleGroup": "hombro",
+      "specificMuscles": ["deltoides posterior", "deltoides medio", "trapecio"],
+      "equipment": ["barra", "discos"],
+      "difficulty": "avanzada",
+      "trainingType": ["fuerza", "hipertrofia"],
+      "estimatedDuration": "45-60 segundos por serie",
+      "recommendedSets": 4,
+      "recommendedReps": {
+        "beginner": "no recomendado",
+        "intermediate": "8-10",
+        "advanced": "10-12"
+      }
+    },
+    {
+      "id": "shoulder-9",
+      "name": "Elevaciones Laterales en Polea",
+      "description": "Elevaciones laterales utilizando polea baja, mantiene tensión constante en el deltoides.",
+      "image": "/imgs/ejercicios/shoulder-9.png",
+      "muscleGroup": "hombro",
+      "specificMuscles": ["deltoides medio"],
+      "equipment": ["máquina de poleas"],
+      "difficulty": "principiante",
+      "trainingType": ["hipertrofia"],
+      "estimatedDuration": "40-50 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "12-15",
+        "intermediate": "15-18",
+        "advanced": "18-20"
+      }
+    },
+    {
+      "id": "shoulder-10",
+      "name": "Press en Máquina Smith",
+      "description": "Press militar realizado en máquina Smith, ideal para principiantes o trabajo de forma.",
+      "image": "/imgs/ejercicios/shoulder-10.png",
+      "muscleGroup": "hombro",
+      "specificMuscles": ["deltoides anterior", "deltoides medio", "trapecio"],
+      "equipment": ["máquina Smith"],
+      "difficulty": "principiante",
+      "trainingType": ["hipertrofia"],
+      "estimatedDuration": "45-60 segundos por serie",
+      "recommendedSets": 4,
+      "recommendedReps": {
+        "beginner": "12-15",
+        "intermediate": "10-12",
+        "advanced": "8-10"
+      }
+    },
+    {
+      "id": "shoulder-11",
+      "name": "Press 180°",
+      "description": "Press con mancuernas rotando las palmas 180 grados durante el movimiento.",
+      "image": "/imgs/ejercicios/shoulder-11.png",
+      "muscleGroup": "hombro",
+      "specificMuscles": ["deltoides anterior", "deltoides medio", "deltoides posterior"],
+      "equipment": ["mancuernas"],
+      "difficulty": "intermedia",
+      "trainingType": ["hipertrofia"],
+      "estimatedDuration": "45-60 segundos por serie",
+      "recommendedSets": 4,
+      "recommendedReps": {
+        "beginner": "8-10",
+        "intermediate": "10-12",
+        "advanced": "12-15"
+      }
+    },
+    {
+      "id": "shoulder-12",
+      "name": "Elevaciones Laterales con Cable Cruzado",
+      "description": "Elevaciones laterales cruzando cables desde poleas bajas opuestas.",
+      "image": "/imgs/ejercicios/shoulder-12.png",
+      "muscleGroup": "hombro",
+      "specificMuscles": ["deltoides medio", "deltoides anterior"],
+      "equipment": ["máquina de poleas"],
+      "difficulty": "intermedia",
+      "trainingType": ["hipertrofia"],
+      "estimatedDuration": "40-50 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "12-15",
+        "intermediate": "15-18",
+        "advanced": "18-20"
+      }
+    },
+    {
+      "id": "shoulder-13",
+      "name": "Press con Banda Elástica",
+      "description": "Press militar utilizando bandas elásticas ancladas bajo los pies.",
+      "image": "/imgs/ejercicios/shoulder-13.png",
+      "muscleGroup": "hombro",
+      "specificMuscles": ["deltoides anterior", "deltoides medio", "trapecio"],
+      "equipment": ["banda elástica"],
+      "difficulty": "principiante",
+      "trainingType": ["resistencia", "hipertrofia"],
+      "estimatedDuration": "40-50 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "15-20",
+        "intermediate": "20-25",
+        "advanced": "25-30"
+      }
+    },
+    {
+      "id": "shoulder-14",
+      "name": "Elevaciones Frontales en Polea",
+      "description": "Elevaciones frontales utilizando polea baja para mantener tensión constante.",
+      "image": "/imgs/ejercicios/shoulder-14.png",
+      "muscleGroup": "hombro",
+      "specificMuscles": ["deltoides anterior"],
+      "equipment": ["máquina de poleas"],
+      "difficulty": "principiante",
+      "trainingType": ["hipertrofia"],
+      "estimatedDuration": "40-50 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "12-15",
+        "intermediate": "15-18",
+        "advanced": "18-20"
+      }
+    },
+    {
+      "id": "shoulder-15",
+      "name": "Press con Kettlebell",
+      "description": "Press de hombro utilizando kettlebell, desafiando la estabilidad.",
+      "image": "/imgs/ejercicios/shoulder-15.png",
+      "muscleGroup": "hombro",
+      "specificMuscles": ["deltoides anterior", "deltoides medio", "trapecio", "estabilizadores del core"],
+      "equipment": ["kettlebell"],
+      "difficulty": "intermedia",
+      "trainingType": ["fuerza", "hipertrofia"],
+      "estimatedDuration": "45-60 segundos por serie",
+      "recommendedSets": 4,
+      "recommendedReps": {
+        "beginner": "8-10",
+        "intermediate": "10-12",
+        "advanced": "12-15"
+      }
+    },
+    {
+      "id": "shoulder-16",
+      "name": "Elevaciones Laterales en Máquina",
+      "description": "Elevaciones laterales utilizando máquina específica para deltoides medio.",
+      "image": "/imgs/ejercicios/shoulder-16.png",
+      "muscleGroup": "hombro",
+      "specificMuscles": ["deltoides medio"],
+      "equipment": ["máquina de elevaciones laterales"],
+      "difficulty": "principiante",
+      "trainingType": ["hipertrofia"],
+      "estimatedDuration": "40-50 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "12-15",
+        "intermediate": "15-18",
+        "advanced": "18-20"
+      }
+    },
+    {
+      "id": "shoulder-17",
+      "name": "Press Bradford",
+      "description": "Variación del press militar alternando la barra por delante y detrás de la cabeza.",
+      "image": "/imgs/ejercicios/shoulder-17.png",
+      "muscleGroup": "hombro",
+      "specificMuscles": ["deltoides anterior", "deltoides posterior", "trapecio"],
+      "equipment": ["barra", "discos"],
+      "difficulty": "avanzada",
+      "trainingType": ["hipertrofia"],
+      "estimatedDuration": "45-60 segundos por serie",
+      "recommendedSets": 4,
+      "recommendedReps": {
+        "beginner": "no recomendado",
+        "intermediate": "8-10",
+        "advanced": "10-12"
+      }
+    },
+    {
+      "id": "shoulder-18",
+      "name": "Remo Alto con Barra",
+      "description": "Remo vertical con barra hasta la barbilla, enfocando deltoides y trapecio.",
+      "image": "/imgs/ejercicios/shoulder-18.png",
+      "muscleGroup": "hombro",
+      "specificMuscles": ["deltoides medio", "trapecio", "deltoides anterior"],
+      "equipment": ["barra", "discos"],
+      "difficulty": "intermedia",
+      "trainingType": ["hipertrofia"],
+      "estimatedDuration": "40-50 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "10-12",
+        "intermediate": "12-15",
+        "advanced": "15-18"
+      }
+    },
+    {
+      "id": "shoulder-19",
+      "name": "Press con Barra Z",
+      "description": "Press militar utilizando barra Z para una posición más cómoda de las muñecas.",
+      "image": "/imgs/ejercicios/shoulder-19.png",
+      "muscleGroup": "hombro",
+      "specificMuscles": ["deltoides anterior", "deltoides medio", "trapecio"],
+      "equipment": ["barra Z", "discos"],
+      "difficulty": "intermedia",
+      "trainingType": ["fuerza", "hipertrofia"],
+      "estimatedDuration": "45-60 segundos por serie",
+      "recommendedSets": 4,
+      "recommendedReps": {
+        "beginner": "8-10",
+        "intermediate": "10-12",
+        "advanced": "12-15"
+      }
+    },
+    {
+      "id": "shoulder-20",
+      "name": "Elevaciones Frontales con Plato",
+      "description": "Elevaciones frontales sosteniendo un disco de peso, trabajando principalmente el deltoides anterior.",
+      "image": "/imgs/ejercicios/shoulder-20.png",
+      "muscleGroup": "hombro",
+      "specificMuscles": ["deltoides anterior", "trapecio superior"],
+      "equipment": ["disco"],
+      "difficulty": "principiante",
+      "trainingType": ["hipertrofia"],
+      "estimatedDuration": "40-50 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "12-15",
+        "intermediate": "15-18",
+        "advanced": "18-20"
+      }
+    },
+    {
+      "id": "shoulder-21",
+      "name": "Press en Máquina Convergente",
+      "description": "Press de hombro en máquina con movimiento convergente que sigue el patrón natural del hombro.",
+      "image": "/imgs/ejercicios/shoulder-21.png",
+      "muscleGroup": "hombro",
+      "specificMuscles": ["deltoides anterior", "deltoides medio", "trapecio"],
+      "equipment": ["máquina convergente"],
+      "difficulty": "principiante",
+      "trainingType": ["hipertrofia"],
+      "estimatedDuration": "45-60 segundos por serie",
+      "recommendedSets": 4,
+      "recommendedReps": {
+        "beginner": "12-15",
+        "intermediate": "10-12",
+        "advanced": "8-10"
+      }
+    },
+    {
+      "id": "shoulder-22",
+      "name": "Elevaciones Laterales Inclinado",
+      "description": "Elevaciones laterales realizadas inclinado sobre un banco, aislando mejor el deltoides.",
+      "image": "/imgs/ejercicios/shoulder-22.png",
+      "muscleGroup": "hombro",
+      "specificMuscles": ["deltoides medio"],
+      "equipment": ["mancuernas", "banco inclinado"],
+      "difficulty": "intermedia",
+      "trainingType": ["hipertrofia"],
+      "estimatedDuration": "40-50 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "10-12",
+        "intermediate": "12-15",
+        "advanced": "15-18"
+      }
+    },
+    {
+      "id": "shoulder-23",
+      "name": "Press Cubano",
+      "description": "Press que incluye una rotación externa de hombro antes del empuje, trabajando múltiples cabezas del deltoides.",
+      "image": "/imgs/ejercicios/shoulder-23.png",
+      "muscleGroup": "hombro",
+      "specificMuscles": ["deltoides anterior", "deltoides medio", "deltoides posterior", "rotadores externos"],
+      "equipment": ["mancuernas"],
+      "difficulty": "avanzada",
+      "trainingType": ["hipertrofia"],
+      "estimatedDuration": "45-60 segundos por serie",
+      "recommendedSets": 4,
+      "recommendedReps": {
+        "beginner": "no recomendado",
+        "intermediate": "8-10",
+        "advanced": "10-12"
+      }
+    },
+    {
+      "id": "shoulder-24",
+      "name": "Press de Hombro en TRX",
+      "description": "Press invertido utilizando TRX, trabajando estabilidad y fuerza del hombro.",
+      "image": "/imgs/ejercicios/shoulder-24.png",
+      "muscleGroup": "hombro",
+      "specificMuscles": ["deltoides anterior", "deltoides medio", "estabilizadores del core"],
+      "equipment": ["TRX"],
+      "difficulty": "intermedia",
+      "trainingType": ["resistencia", "fuerza"],
+      "estimatedDuration": "40-50 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "8-10",
+        "intermediate": "10-15",
+        "advanced": "15-20"
+      }
+    },
+    {
+      "id": "shoulder-25",
+      "name": "Elevaciones Posteriores Inclinado en Banco",
+      "description": "Tumbado boca abajo en banco inclinado, realizar elevaciones laterales para trabajar el deltoides posterior con mayor rango de movimiento.",
+      "image": "/imgs/ejercicios/shoulder-25.png",
+      "muscleGroup": "hombro",
+      "specificMuscles": ["deltoides posterior", "trapecio medio", "romboides"],
+      "equipment": ["mancuernas", "banco inclinado"],
+      "difficulty": "intermedia",
+      "trainingType": ["hipertrofia"],
+      "estimatedDuration": "40-50 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "12-15",
+        "intermediate": "15-18",
+        "advanced": "18-20"
+      }
+    },
+    {
+      "id": "shoulder-26",
+      "name": "Press Arnold con Banda Elástica",
+      "description": "Variación del press Arnold utilizando banda elástica, rotando las palmas durante el movimiento.",
+      "image": "/imgs/ejercicios/shoulder-26.png",
+      "muscleGroup": "hombro",
+      "specificMuscles": ["deltoides anterior", "deltoides medio", "deltoides posterior"],
+      "equipment": ["banda elástica"],
+      "difficulty": "intermedia",
+      "trainingType": ["hipertrofia", "resistencia"],
+      "estimatedDuration": "45-60 segundos por serie",
+      "recommendedSets": 4,
+      "recommendedReps": {
+        "beginner": "12-15",
+        "intermediate": "15-20",
+        "advanced": "20-25"
+      }
+    },
+    {
+      "id": "shoulder-27",
+      "name": "Press Pin",
+      "description": "Press militar desde soportes de poder, comenzando desde la posición baja para eliminar el rebote y aumentar la tensión.",
+      "image": "/imgs/ejercicios/shoulder-27.png",
+      "muscleGroup": "hombro",
+      "specificMuscles": ["deltoides anterior", "deltoides medio", "trapecio"],
+      "equipment": ["barra", "discos", "rack de poder"],
+      "difficulty": "avanzada",
+      "trainingType": ["fuerza", "hipertrofia"],
+      "estimatedDuration": "45-60 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "no recomendado",
+        "intermediate": "6-8",
+        "advanced": "8-10"
+      }
+    },
+    {
+      "id": "shoulder-28",
+      "name": "Press Militar con Pausa",
+      "description": "Press militar con pausa de 2 segundos en la posición más baja para aumentar tiempo bajo tensión.",
+      "image": "/imgs/ejercicios/shoulder-28.png",
+      "muscleGroup": "hombro",
+      "specificMuscles": ["deltoides anterior", "deltoides medio", "trapecio"],
+      "equipment": ["barra", "discos"],
+      "difficulty": "avanzada",
+      "trainingType": ["fuerza", "hipertrofia"],
+      "estimatedDuration": "50-65 segundos por serie",
+      "recommendedSets": 4,
+      "recommendedReps": {
+        "beginner": "no recomendado",
+        "intermediate": "6-8",
+        "advanced": "8-10"
+      }
+    },
+    {
+      "id": "shoulder-29",
+      "name": "Elevaciones Posteriores en Máquina",
+      "description": "Elevaciones posteriores utilizando máquina específica para deltoides posterior.",
+      "image": "/imgs/ejercicios/shoulder-29.png",
+      "muscleGroup": "hombro",
+      "specificMuscles": ["deltoides posterior", "trapecio medio"],
+      "equipment": ["máquina de deltoides posterior"],
+      "difficulty": "principiante",
+      "trainingType": ["hipertrofia"],
+      "estimatedDuration": "40-50 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "12-15",
+        "intermediate": "15-18",
+        "advanced": "18-20"
+      }
+    },
+    {
+      "id": "shoulder-30",
+      "name": "Press Militar Unilateral",
+      "description": "Press militar realizado con una mano a la vez para mayor activación de estabilizadores.",
+      "image": "/imgs/ejercicios/shoulder-30.png",
+      "muscleGroup": "hombro",
+      "specificMuscles": ["deltoides anterior", "deltoides medio", "trapecio", "estabilizadores del core"],
+      "equipment": ["mancuerna"],
+      "difficulty": "intermedia",
+      "trainingType": ["fuerza", "hipertrofia"],
+      "estimatedDuration": "45-60 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "8-10 por lado",
+        "intermediate": "10-12 por lado",
+        "advanced": "12-15 por lado"
+      }
+    },
+    {
+      "id": "biceps-1",
+      "name": "Curl con Barra",
+      "description": "Curl de bíceps tradicional con barra, manteniendo los codos pegados al cuerpo.",
+      "image": "/imgs/ejercicios/biceps-1.png",
+      "muscleGroup": "biceps",
+      "specificMuscles": ["bíceps braquial", "braquial anterior", "braquiorradial"],
+      "equipment": ["barra", "discos"],
+      "difficulty": "principiante",
+      "trainingType": ["fuerza", "hipertrofia"],
+      "estimatedDuration": "40-50 segundos por serie",
+      "recommendedSets": 4,
+      "recommendedReps": {
+        "beginner": "10-12",
+        "intermediate": "12-15",
+        "advanced": "15-18"
+      }
+    },
+    {
+      "id": "biceps-2",
+      "name": "Curl Alternado con Mancuernas",
+      "description": "Curls alternando brazos con mancuernas, permitiendo mayor rango de movimiento y trabajo independiente.",
+      "image": "/imgs/ejercicios/biceps-2.png",
+      "muscleGroup": "biceps",
+      "specificMuscles": ["bíceps braquial", "braquial anterior"],
+      "equipment": ["mancuernas"],
+      "difficulty": "principiante",
+      "trainingType": ["hipertrofia"],
+      "estimatedDuration": "45-60 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "10-12 por brazo",
+        "intermediate": "12-15 por brazo",
+        "advanced": "15-18 por brazo"
+      }
+    },
+    {
+      "id": "biceps-3",
+      "name": "Curl con Barra Z",
+      "description": "Curl utilizando barra Z para una posición más cómoda de las muñecas.",
+      "image": "/imgs/ejercicios/biceps-3.png",
+      "muscleGroup": "biceps",
+      "specificMuscles": ["bíceps braquial", "braquial anterior"],
+      "equipment": ["barra Z", "discos"],
+      "difficulty": "principiante",
+      "trainingType": ["fuerza", "hipertrofia"],
+      "estimatedDuration": "40-50 segundos por serie",
+      "recommendedSets": 4,
+      "recommendedReps": {
+        "beginner": "10-12",
+        "intermediate": "12-15",
+        "advanced": "15-18"
+      }
+    },
+    {
+      "id": "biceps-4",
+      "name": "Curl de Concentración",
+      "description": "Curl sentado con mancuerna, apoyando el codo en la cara interna del muslo para mayor aislamiento.",
+      "image": "/imgs/ejercicios/biceps-4.png",
+      "muscleGroup": "biceps",
+      "specificMuscles": ["bíceps braquial", "braquial anterior"],
+      "equipment": ["mancuerna", "banco"],
+      "difficulty": "principiante",
+      "trainingType": ["hipertrofia"],
+      "estimatedDuration": "40-50 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "10-12 por brazo",
+        "intermediate": "12-15 por brazo",
+        "advanced": "15-18 por brazo"
+      }
+    },
+    {
+      "id": "biceps-5",
+      "name": "Curl en Banco Scott",
+      "description": "Curl realizado en banco predicador para aislar completamente el bíceps.",
+      "image": "/imgs/ejercicios/biceps-5.png",
+      "muscleGroup": "biceps",
+      "specificMuscles": ["bíceps braquial", "braquial anterior"],
+      "equipment": ["banco Scott", "barra", "discos"],
+      "difficulty": "intermedia",
+      "trainingType": ["hipertrofia"],
+      "estimatedDuration": "45-60 segundos por serie",
+      "recommendedSets": 4,
+      "recommendedReps": {
+        "beginner": "8-10",
+        "intermediate": "10-12",
+        "advanced": "12-15"
+      }
+    },
+    {
+      "id": "biceps-6",
+      "name": "Curl Martillo",
+      "description": "Curl con mancuernas manteniendo las palmas enfrentadas entre sí durante todo el movimiento.",
+      "image": "/imgs/ejercicios/biceps-6.png",
+      "muscleGroup": "biceps",
+      "specificMuscles": ["bíceps braquial", "braquiorradial"],
+      "equipment": ["mancuernas"],
+      "difficulty": "principiante",
+      "trainingType": ["hipertrofia"],
+      "estimatedDuration": "40-50 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "10-12 por brazo",
+        "intermediate": "12-15 por brazo",
+        "advanced": "15-18 por brazo"
+      }
+    },
+    {
+      "id": "biceps-7",
+      "name": "Curl en Polea Baja",
+      "description": "Curl realizado con polea baja para mantener tensión constante durante todo el movimiento.",
+      "image": "/imgs/ejercicios/biceps-7.png",
+      "muscleGroup": "biceps",
+      "specificMuscles": ["bíceps braquial", "braquial anterior"],
+      "equipment": ["máquina de poleas"],
+      "difficulty": "principiante",
+      "trainingType": ["hipertrofia"],
+      "estimatedDuration": "45-60 segundos por serie",
+      "recommendedSets": 4,
+      "recommendedReps": {
+        "beginner": "12-15",
+        "intermediate": "15-18",
+        "advanced": "18-20"
+      }
+    },
+    {
+      "id": "biceps-8",
+      "name": "Curl 21s",
+      "description": "Serie de 21 repeticiones divididas en tres rangos de movimiento diferentes.",
+      "image": "/imgs/ejercicios/biceps-8.png",
+      "muscleGroup": "biceps",
+      "specificMuscles": ["bíceps braquial", "braquial anterior"],
+      "equipment": ["barra", "discos"],
+      "difficulty": "avanzada",
+      "trainingType": ["hipertrofia"],
+      "estimatedDuration": "60-75 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "no recomendado",
+        "intermediate": "21 (7-7-7)",
+        "advanced": "21 (7-7-7)"
+      }
+    },
+    {
+      "id": "biceps-9",
+      "name": "Curl Araña",
+      "description": "Boca abajo en un banco inclinado, sujeta una mancuerna con cada mano y contrae los bíceps llevando las mancuernas al pecho.",
+      "image": "/imgs/ejercicios/biceps-9.png",
+      "muscleGroup": "biceps",
+      "specificMuscles": ["bíceps braquial", "braquial anterior"],
+      "equipment": ["mancuerna", "banco inclinado"],
+      "difficulty": "intermedia",
+      "trainingType": ["hipertrofia"],
+      "estimatedDuration": "40-50 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "8-10 por brazo",
+        "intermediate": "10-12 por brazo",
+        "advanced": "12-15 por brazo"
+      }
+    },
+    {
+      "id": "biceps-10",
+      "name": "Curl Inverso con Barra",
+      "description": "Curl con agarre pronado para enfatizar el trabajo del braquiorradial.",
+      "image": "/imgs/ejercicios/biceps-10.png",
+      "muscleGroup": "biceps",
+      "specificMuscles": ["braquiorradial", "bíceps braquial"],
+      "equipment": ["barra", "discos"],
+      "difficulty": "intermedia",
+      "trainingType": ["hipertrofia"],
+      "estimatedDuration": "40-50 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "10-12",
+        "intermediate": "12-15",
+        "advanced": "15-18"
+      }
+    },
+    {
+      "id": "biceps-11",
+      "name": "Curl Zottman",
+      "description": "Curl que combina curl regular en la subida y curl inverso en la bajada.",
+      "image": "/imgs/ejercicios/biceps-11.png",
+      "muscleGroup": "biceps",
+      "specificMuscles": ["bíceps braquial", "braquiorradial", "braquial anterior"],
+      "equipment": ["mancuernas"],
+      "difficulty": "avanzada",
+      "trainingType": ["hipertrofia"],
+      "estimatedDuration": "45-60 segundos por serie",
+      "recommendedSets": 4,
+      "recommendedReps": {
+        "beginner": "no recomendado",
+        "intermediate": "8-10",
+        "advanced": "10-12"
+      }
+    },
+    {
+      "id": "biceps-12",
+      "name": "Curl en Banco Scott con Mancuernas",
+      "description": "Curl en banco Scott realizado con mancuernas para trabajo unilateral.",
+      "image": "/imgs/ejercicios/biceps-12.png",
+      "muscleGroup": "biceps",
+      "specificMuscles": ["bíceps braquial", "braquial anterior"],
+      "equipment": ["banco Scott", "mancuernas"],
+      "difficulty": "intermedia",
+      "trainingType": ["hipertrofia"],
+      "estimatedDuration": "40-50 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "8-10 por brazo",
+        "intermediate": "10-12 por brazo",
+        "advanced": "12-15 por brazo"
+      }
+    },
+    {
+      "id": "biceps-13",
+      "name": "Curl con Cable de Alta a Baja",
+      "description": "Curl realizado con polea alta, tirando hacia abajo para mayor tensión en la porción larga.",
+      "image": "/imgs/ejercicios/biceps-13.png",
+      "muscleGroup": "biceps",
+      "specificMuscles": ["bíceps braquial", "braquial anterior"],
+      "equipment": ["máquina de poleas"],
+      "difficulty": "intermedia",
+      "trainingType": ["hipertrofia"],
+      "estimatedDuration": "40-50 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "12-15",
+        "intermediate": "15-18",
+        "advanced": "18-20"
+      }
+    },
+    {
+      "id": "biceps-14",
+      "name": "Curl con Banda Elástica",
+      "description": "Curl utilizando banda elástica para resistencia variable durante todo el movimiento.",
+      "image": "/imgs/ejercicios/biceps-14.png",
+      "muscleGroup": "biceps",
+      "specificMuscles": ["bíceps braquial", "braquial anterior"],
+      "equipment": ["banda elástica"],
+      "difficulty": "principiante",
+      "trainingType": ["hipertrofia", "resistencia"],
+      "estimatedDuration": "40-50 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "15-20",
+        "intermediate": "20-25",
+        "advanced": "25-30"
+      }
+    },
+    {
+      "id": "biceps-15",
+      "name": "Curl Isométrico con Mancuernas",
+      "description": "Curl con pausas isométricas en diferentes ángulos del movimiento.",
+      "image": "/imgs/ejercicios/biceps-15.png",
+      "muscleGroup": "biceps",
+      "specificMuscles": ["bíceps braquial", "braquial anterior"],
+      "equipment": ["mancuernas"],
+      "difficulty": "avanzada",
+      "trainingType": ["fuerza", "hipertrofia"],
+      "estimatedDuration": "50-60 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "no recomendado",
+        "intermediate": "8-10 con 3s de pausa",
+        "advanced": "10-12 con 5s de pausa"
+      }
+    },
+    {
+      "id": "biceps-16",
+      "name": "Curl Bayesiano",
+      "description": "Curl realizado en poleas bajas detrás del cuerpo, permitiendo mayor estiramiento.",
+      "image": "/imgs/ejercicios/biceps-16.png",
+      "muscleGroup": "biceps",
+      "specificMuscles": ["bíceps braquial", "braquial anterior"],
+      "equipment": ["mancuernas", "banco inclinado"],
+      "difficulty": "avanzada",
+      "trainingType": ["hipertrofia"],
+      "estimatedDuration": "45-60 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "no recomendado",
+        "intermediate": "8-10",
+        "advanced": "10-12"
+      }
+    },
+    {
+      "id": "biceps-17",
+      "name": "Curl con Polea Baja y Cuerda",
+      "description": "Curl con cuerda en polea baja permitiendo supinación natural de las muñecas.",
+      "image": "/imgs/ejercicios/biceps-17.png",
+      "muscleGroup": "biceps",
+      "specificMuscles": ["bíceps braquial", "braquial anterior"],
+      "equipment": ["máquina de poleas", "cuerda"],
+      "difficulty": "principiante",
+      "trainingType": ["hipertrofia"],
+      "estimatedDuration": "40-50 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "12-15",
+        "intermediate": "15-18",
+        "advanced": "18-20"
+      }
+    },
+    {
+      "id": "biceps-18",
+      "name": "Curl de Drag con Barra",
+      "description": "Curl manteniendo la barra cerca del cuerpo durante todo el movimiento.",
+      "image": "/imgs/ejercicios/biceps-18.png",
+      "muscleGroup": "biceps",
+      "specificMuscles": ["bíceps braquial", "braquial anterior"],
+      "equipment": ["barra", "discos"],
+      "difficulty": "intermedia",
+      "trainingType": ["hipertrofia"],
+      "estimatedDuration": "40-50 segundos por serie",
+      "recommendedSets": 4,
+      "recommendedReps": {
+        "beginner": "10-12",
+        "intermediate": "12-15",
+        "advanced": "15-18"
+      }
+    },
+    {
+      "id": "biceps-19",
+      "name": "Curl Alternado con Rotación",
+      "description": "Curl con mancuernas rotando las muñecas durante el movimiento.",
+      "image": "/imgs/ejercicios/biceps-19.png",
+      "muscleGroup": "biceps",
+      "specificMuscles": ["bíceps braquial", "braquial anterior", "braquiorradial"],
+      "equipment": ["mancuernas"],
+      "difficulty": "intermedia",
+      "trainingType": ["hipertrofia"],
+      "estimatedDuration": "45-60 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "8-10 por brazo",
+        "intermediate": "10-12 por brazo",
+        "advanced": "12-15 por brazo"
+      }
+    },
+    {
+      "id": "biceps-20",
+      "name": "Curl en Máquina",
+      "description": "Curl realizado en máquina específica para bíceps.",
+      "image": "/imgs/ejercicios/biceps-20.png",
+      "muscleGroup": "biceps",
+      "specificMuscles": ["bíceps braquial", "braquial anterior"],
+      "equipment": ["máquina de bíceps"],
+      "difficulty": "principiante",
+      "trainingType": ["hipertrofia"],
+      "estimatedDuration": "40-50 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "12-15",
+        "intermediate": "15-18",
+        "advanced": "18-20"
+      }
+    },
+    {
+      "id": "biceps-21",
+      "name": "Curl con Barra Contra Pared",
+      "description": "Curl con barra apoyando la espalda en la pared para evitar impulso.",
+      "image": "/imgs/ejercicios/biceps-21.png",
+      "muscleGroup": "biceps",
+      "specificMuscles": ["bíceps braquial", "braquial anterior"],
+      "equipment": ["barra", "discos"],
+      "difficulty": "intermedia",
+      "trainingType": ["hipertrofia"],
+      "estimatedDuration": "40-50 segundos por serie",
+      "recommendedSets": 4,
+      "recommendedReps": {
+        "beginner": "10-12",
+        "intermediate": "12-15",
+        "advanced": "15-18"
+      }
+    },
+    {
+      "id": "biceps-22",
+      "name": "Curl en Banco Inclinado con Mancuernas",
+      "description": "Curl realizado sentado en banco inclinado para mayor estiramiento.",
+      "image": "/imgs/ejercicios/biceps-22.png",
+      "muscleGroup": "biceps",
+      "specificMuscles": ["bíceps braquial", "braquial anterior"],
+      "equipment": ["mancuernas", "banco inclinado"],
+      "difficulty": "intermedia",
+      "trainingType": ["hipertrofia"],
+      "estimatedDuration": "45-60 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "8-10",
+        "intermediate": "10-12",
+        "advanced": "12-15"
+      }
+    },
+    {
+      "id": "biceps-23",
+      "name": "Curl con Barra Olímpica",
+      "description": "Curl utilizando barra olímpica para mayor estabilidad y peso.",
+      "image": "/imgs/ejercicios/biceps-23.png",
+      "muscleGroup": "biceps",
+      "specificMuscles": ["bíceps braquial", "braquial anterior"],
+      "equipment": ["barra olímpica", "discos"],
+      "difficulty": "avanzada",
+      "trainingType": ["fuerza", "hipertrofia"],
+      "estimatedDuration": "45-60 segundos por serie",
+      "recommendedSets": 4,
+      "recommendedReps": {
+        "beginner": "no recomendado",
+        "intermediate": "6-8",
+        "advanced": "8-10"
+      }
+    },
+    {
+      "id": "biceps-24",
+      "name": "Curl Concentrado en Polea",
+      "description": "Curl de concentración utilizando polea baja para tensión constante.",
+      "image": "/imgs/ejercicios/biceps-24.png",
+      "muscleGroup": "biceps",
+      "specificMuscles": ["bíceps braquial", "braquial anterior"],
+      "equipment": ["máquina de poleas"],
+      "difficulty": "intermedia",
+      "trainingType": ["hipertrofia"],
+      "estimatedDuration": "40-50 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "10-12 por brazo",
+        "intermediate": "12-15 por brazo",
+        "advanced": "15-18 por brazo"
+      }
+    },
+    {
+      "id": "biceps-25",
+      "name": "Curl 100s",
+      "description": "Serie de 100 repeticiones divididas en 10 series de 10 repeticiones con descansos mínimos.",
+      "image": "/imgs/ejercicios/biceps-25.png",
+      "muscleGroup": "biceps",
+      "specificMuscles": ["bíceps braquial", "braquial anterior"],
+      "equipment": ["mancuernas ligeras"],
+      "difficulty": "avanzada",
+      "trainingType": ["resistencia", "hipertrofia"],
+      "estimatedDuration": "3-4 minutos por serie completa",
+      "recommendedSets": 1,
+      "recommendedReps": {
+        "beginner": "no recomendado",
+        "intermediate": "60 (6 series de 10)",
+        "advanced": "100 (10 series de 10)"
+      }
+    },
+    {
+      "id": "biceps-26",
+      "name": "Curl con Polea Alta unilateral",
+      "description": "Curl realizado con polea alta, tirando hacia abajo para mayor tensión en la porción larga.",
+      "image": "/imgs/ejercicios/biceps-26.png",
+      "muscleGroup": "biceps",
+      "specificMuscles": ["bíceps braquial", "braquial anterior"],
+      "equipment": ["máquina de poleas"],
+      "difficulty": "intermedia",
+      "trainingType": ["hipertrofia"],
+      "estimatedDuration": "40-50 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "12-15",
+        "intermediate": "15-18",
+        "advanced": "18-20"
+      }
+    },
+    {
+      "id": "biceps-27",
+      "name": "Curl de 4 Segundos",
+      "description": "Curl con tempo lento de 4 segundos en la fase excéntrica para mayor tiempo bajo tensión.",
+      "image": "/imgs/ejercicios/biceps-27.png",
+      "muscleGroup": "biceps",
+      "specificMuscles": ["bíceps braquial", "braquial anterior"],
+      "equipment": ["mancuernas"],
+      "difficulty": "avanzada",
+      "trainingType": ["hipertrofia"],
+      "estimatedDuration": "60-75 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "no recomendado",
+        "intermediate": "8-10",
+        "advanced": "10-12"
+      }
+    },
+    {
+      "id": "biceps-28",
+      "name": "Curl con Agarre Neutro en Polea",
+      "description": "Curl en polea usando un agarre neutro (palmas enfrentadas) con barra V.",
+      "image": "/imgs/ejercicios/biceps-28.png",
+      "muscleGroup": "biceps",
+      "specificMuscles": ["bíceps braquial", "braquiorradial"],
+      "equipment": ["máquina de poleas", "barra V"],
+      "difficulty": "principiante",
+      "trainingType": ["hipertrofia"],
+      "estimatedDuration": "40-50 segundos por serie",
+      "recommendedSets": 4,
+      "recommendedReps": {
+        "beginner": "12-15",
+        "intermediate": "15-18",
+        "advanced": "18-20"
+      }
+    },
+    {
+      "id": "biceps-29",
+      "name": "Curl Unilateral en Polea con Cuerda",
+      "description": "Curl realizado con una mano usando cuerda en polea para mayor rango de movimiento.",
+      "image": "/imgs/ejercicios/biceps-29.png",
+      "muscleGroup": "biceps",
+      "specificMuscles": ["bíceps braquial", "braquial anterior"],
+      "equipment": ["máquina de poleas", "cuerda"],
+      "difficulty": "intermedia",
+      "trainingType": ["hipertrofia"],
+      "estimatedDuration": "40-50 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "10-12 por brazo",
+        "intermediate": "12-15 por brazo",
+        "advanced": "15-18 por brazo"
+      }
+    },
+    {
+      "id": "biceps-30",
+      "name": "Curl con Banda Elástica y Pausa",
+      "description": "Curl con banda elástica manteniendo una pausa de 2 segundos en la contracción máxima.",
+      "image": "/imgs/ejercicios/biceps-30.png",
+      "muscleGroup": "biceps",
+      "specificMuscles": ["bíceps braquial", "braquial anterior"],
+      "equipment": ["banda elástica"],
+      "difficulty": "principiante",
+      "trainingType": ["hipertrofia", "resistencia"],
+      "estimatedDuration": "45-60 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "12-15",
+        "intermediate": "15-18",
+        "advanced": "18-20"
+      }
+    },
+    {
+      "id": "triceps-1",
+      "name": "Extensión de Tríceps con Polea Alta",
+      "description": "De pie frente a la polea alta, extender los brazos hacia abajo manteniendo los codos cerca del cuerpo.",
+      "image": "/imgs/ejercicios/triceps-1.png",
+      "muscleGroup": "triceps",
+      "specificMuscles": ["tríceps cabeza lateral", "tríceps cabeza larga", "tríceps cabeza medial"],
+      "equipment": ["máquina de poleas"],
+      "difficulty": "principiante",
+      "trainingType": ["hipertrofia"],
+      "estimatedDuration": "40-50 segundos por serie",
+      "recommendedSets": 4,
+      "recommendedReps": {
+        "beginner": "12-15",
+        "intermediate": "15-18",
+        "advanced": "18-20"
+      }
+    },
+    {
+      "id": "triceps-2",
+      "name": "Press Francés con Barra EZ",
+      "description": "Acostado en banco plano, bajar la barra hacia la frente flexionando los codos y extender.",
+      "image": "/imgs/ejercicios/triceps-2.png",
+      "muscleGroup": "triceps",
+      "specificMuscles": ["tríceps cabeza larga", "tríceps cabeza lateral"],
+      "equipment": ["barra EZ", "banco plano"],
+      "difficulty": "intermedia",
+      "trainingType": ["fuerza", "hipertrofia"],
+      "estimatedDuration": "45-60 segundos por serie",
+      "recommendedSets": 4,
+      "recommendedReps": {
+        "beginner": "8-10",
+        "intermediate": "10-12",
+        "advanced": "12-15"
+      }
+    },
+    {
+      "id": "triceps-3",
+      "name": "Extensiones de Tríceps con Mancuerna sobre la Cabeza",
+      "description": "De pie o sentado, extender una mancuerna sobre la cabeza con ambas manos.",
+      "image": "/imgs/ejercicios/triceps-3.png",
+      "muscleGroup": "triceps",
+      "specificMuscles": ["tríceps cabeza larga"],
+      "equipment": ["mancuerna"],
+      "difficulty": "principiante",
+      "trainingType": ["hipertrofia"],
+      "estimatedDuration": "40-50 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "12-15",
+        "intermediate": "15-18",
+        "advanced": "18-20"
+      }
+    },
+    {
+      "id": "triceps-4",
+      "name": "Fondos en Banco",
+      "description": "Apoyando las manos en un banco, bajar el cuerpo flexionando los codos y empujar hacia arriba.",
+      "image": "/imgs/ejercicios/triceps-4.png",
+      "muscleGroup": "triceps",
+      "specificMuscles": ["tríceps cabeza lateral", "tríceps cabeza medial"],
+      "equipment": ["banco"],
+      "difficulty": "principiante",
+      "trainingType": ["fuerza", "resistencia"],
+      "estimatedDuration": "30-45 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "10-12",
+        "intermediate": "15-20",
+        "advanced": "20-25"
+      }
+    },
+    {
+      "id": "triceps-5",
+      "name": "Extensión de Tríceps con Cuerda",
+      "description": "Extensión en polea alta utilizando una cuerda, permitiendo separar las manos al final del movimiento.",
+      "image": "/imgs/ejercicios/triceps-5.png",
+      "muscleGroup": "triceps",
+      "specificMuscles": ["tríceps cabeza lateral", "tríceps cabeza medial"],
+      "equipment": ["máquina de poleas", "cuerda"],
+      "difficulty": "principiante",
+      "trainingType": ["hipertrofia"],
+      "estimatedDuration": "40-50 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "12-15",
+        "intermediate": "15-18",
+        "advanced": "18-20"
+      }
+    },
+    {
+      "id": "triceps-6",
+      "name": "Press Cerrado",
+      "description": "Press de banca con agarre cerrado, manos separadas al ancho de los hombros o menos.",
+      "image": "/imgs/ejercicios/triceps-6.png",
+      "muscleGroup": "triceps",
+      "specificMuscles": ["tríceps cabeza lateral", "tríceps cabeza medial", "pectoral mayor"],
+      "equipment": ["barra", "banco plano"],
+      "difficulty": "intermedia",
+      "trainingType": ["fuerza", "hipertrofia"],
+      "estimatedDuration": "45-60 segundos por serie",
+      "recommendedSets": 4,
+      "recommendedReps": {
+        "beginner": "8-10",
+        "intermediate": "10-12",
+        "advanced": "12-15"
+      }
+    },
+    {
+      "id": "triceps-7",
+      "name": "Extensiones de Tríceps en Polea con Una Mano",
+      "description": "Extensión unilateral en polea para trabajar cada brazo independientemente.",
+      "image": "/imgs/ejercicios/triceps-7.png",
+      "muscleGroup": "triceps",
+      "specificMuscles": ["tríceps cabeza lateral", "tríceps cabeza medial"],
+      "equipment": ["máquina de poleas"],
+      "difficulty": "principiante",
+      "trainingType": ["hipertrofia"],
+      "estimatedDuration": "40-50 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "10-12 por brazo",
+        "intermediate": "12-15 por brazo",
+        "advanced": "15-18 por brazo"
+      }
+    },
+    {
+      "id": "triceps-8",
+      "name": "Extensiones de Tríceps Tumbado con Mancuernas",
+      "description": "Extensión de tríceps acostado con una mancuerna en cada mano.",
+      "image": "/imgs/ejercicios/triceps-8.png",
+      "muscleGroup": "triceps",
+      "specificMuscles": ["tríceps cabeza larga", "tríceps cabeza lateral"],
+      "equipment": ["mancuernas", "banco plano"],
+      "difficulty": "intermedia",
+      "trainingType": ["hipertrofia"],
+      "estimatedDuration": "40-50 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "10-12",
+        "intermediate": "12-15",
+        "advanced": "15-18"
+      }
+    },
+    {
+      "id": "triceps-9",
+      "name": "Patada de Tríceps",
+      "description": "Inclinado hacia adelante, extender el brazo hacia atrás con mancuerna.",
+      "image": "/imgs/ejercicios/triceps-9.png",
+      "muscleGroup": "triceps",
+      "specificMuscles": ["tríceps cabeza lateral", "tríceps cabeza larga"],
+      "equipment": ["mancuerna"],
+      "difficulty": "principiante",
+      "trainingType": ["hipertrofia"],
+      "estimatedDuration": "40-50 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "12-15 por brazo",
+        "intermediate": "15-18 por brazo",
+        "advanced": "18-20 por brazo"
+      }
+    },
+    {
+      "id": "triceps-10",
+      "name": "Press de Banca con Agarre Diamante",
+      "description": "Press con las manos juntas formando un diamante.",
+      "image": "/imgs/ejercicios/triceps-10.png",
+      "muscleGroup": "triceps",
+      "specificMuscles": ["tríceps cabeza lateral", "tríceps cabeza medial", "pectoral mayor"],
+      "equipment": ["barra"],
+      "difficulty": "intermedia",
+      "trainingType": ["fuerza", "resistencia"],
+      "estimatedDuration": "30-45 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "8-10",
+        "intermediate": "12-15",
+        "advanced": "15-20"
+      }
+    },
+    {
+      "id": "triceps-11",
+      "name": "Extensión de Tríceps en Máquina",
+      "description": "Extensión de tríceps utilizando máquina específica.",
+      "image": "/imgs/ejercicios/triceps-11.png",
+      "muscleGroup": "triceps",
+      "specificMuscles": ["tríceps cabeza lateral", "tríceps cabeza medial", "tríceps cabeza larga"],
+      "equipment": ["máquina de tríceps"],
+      "difficulty": "principiante",
+      "trainingType": ["hipertrofia"],
+      "estimatedDuration": "40-50 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "12-15",
+        "intermediate": "15-18",
+        "advanced": "18-20"
+      }
+    },
+    {
+      "id": "triceps-12",
+      "name": "Extensiones de Tríceps en Polea Alta con Barra Recta",
+      "description": "Extensión de tríceps en polea usando barra recta con agarre pronado.",
+      "image": "/imgs/ejercicios/triceps-12.png",
+      "muscleGroup": "triceps",
+      "specificMuscles": ["tríceps cabeza lateral", "tríceps cabeza medial"],
+      "equipment": ["máquina de poleas", "barra recta"],
+      "difficulty": "principiante",
+      "trainingType": ["hipertrofia"],
+      "estimatedDuration": "40-50 segundos por serie",
+      "recommendedSets": 4,
+      "recommendedReps": {
+        "beginner": "12-15",
+        "intermediate": "15-18",
+        "advanced": "18-20"
+      }
+    },
+    {
+      "id": "triceps-13",
+      "name": "Press Francés con Mancuerna",
+      "description": "Extensión de tríceps sobre la cabeza con una sola mancuerna sostenida con ambas manos.",
+      "image": "/imgs/ejercicios/triceps-13.png",
+      "muscleGroup": "triceps",
+      "specificMuscles": ["tríceps cabeza larga"],
+      "equipment": ["mancuerna"],
+      "difficulty": "intermedia",
+      "trainingType": ["hipertrofia"],
+      "estimatedDuration": "40-50 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "10-12",
+        "intermediate": "12-15",
+        "advanced": "15-18"
+      }
+    },
+    {
+      "id": "triceps-14",
+      "name": "Extensiones de Tríceps en Banco Inclinado",
+      "description": "Extensiones de tríceps con mancuernas acostado en banco inclinado.",
+      "image": "/imgs/ejercicios/triceps-14.png",
+      "muscleGroup": "triceps",
+      "specificMuscles": ["tríceps cabeza larga", "tríceps cabeza lateral"],
+      "equipment": ["mancuernas", "banco inclinado"],
+      "difficulty": "avanzada",
+      "trainingType": ["hipertrofia"],
+      "estimatedDuration": "45-60 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "no recomendado",
+        "intermediate": "10-12",
+        "advanced": "12-15"
+      }
+    },
+    {
+      "id": "triceps-15",
+      "name": "Extensiones de Tríceps en TRX",
+      "description": "Extensiones de tríceps utilizando TRX o anillas de suspensión.",
+      "image": "/imgs/ejercicios/triceps-15.png",
+      "muscleGroup": "triceps",
+      "specificMuscles": ["tríceps cabeza lateral", "tríceps cabeza medial", "tríceps cabeza larga"],
+      "equipment": ["TRX"],
+      "difficulty": "avanzada",
+      "trainingType": ["fuerza", "resistencia"],
+      "estimatedDuration": "30-45 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "no recomendado",
+        "intermediate": "8-12",
+        "advanced": "12-15"
+      }
+    },
+    {
+      "id": "triceps-16",
+      "name": "Extensiones de Tríceps en Polea con Barra V",
+      "description": "Extensión de tríceps usando una barra V en polea alta para mayor concentración.",
+      "image": "/imgs/ejercicios/triceps-16.png",
+      "muscleGroup": "triceps",
+      "specificMuscles": ["tríceps cabeza lateral", "tríceps cabeza medial"],
+      "equipment": ["máquina de poleas", "barra V"],
+      "difficulty": "principiante",
+      "trainingType": ["hipertrofia"],
+      "estimatedDuration": "40-50 segundos por serie",
+      "recommendedSets": 4,
+      "recommendedReps": {
+        "beginner": "12-15",
+        "intermediate": "15-18",
+        "advanced": "18-20"
+      }
+    },
+    {
+      "id": "triceps-17",
+      "name": "Press Francés Inclinado",
+      "description": "Press francés realizado en banco inclinado para mayor estiramiento.",
+      "image": "/imgs/ejercicios/triceps-17.png",
+      "muscleGroup": "triceps",
+      "specificMuscles": ["tríceps cabeza larga", "tríceps cabeza lateral"],
+      "equipment": ["barra EZ", "banco inclinado"],
+      "difficulty": "avanzada",
+      "trainingType": ["hipertrofia"],
+      "estimatedDuration": "45-60 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "no recomendado",
+        "intermediate": "10-12",
+        "advanced": "12-15"
+      }
+    },
+    {
+      "id": "triceps-18",
+      "name": "Extensiones de Tríceps en Polea Baja",
+      "description": "Extensión de tríceps usando polea baja, de espaldas a la máquina.",
+      "image": "/imgs/ejercicios/triceps-18.png",
+      "muscleGroup": "triceps",
+      "specificMuscles": ["tríceps cabeza larga", "tríceps cabeza lateral"],
+      "equipment": ["máquina de poleas"],
+      "difficulty": "intermedia",
+      "trainingType": ["hipertrofia"],
+      "estimatedDuration": "40-50 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "12-15",
+        "intermediate": "15-18",
+        "advanced": "18-20"
+      }
+    },
+    {
+      "id": "triceps-19",
+      "name": "Extensiones de Tríceps Alternadas con Mancuernas",
+      "description": "Extensiones de tríceps sobre la cabeza alternando brazos.",
+      "image": "/imgs/ejercicios/triceps-19.png",
+      "muscleGroup": "triceps",
+      "specificMuscles": ["tríceps cabeza larga"],
+      "equipment": ["mancuernas"],
+      "difficulty": "intermedia",
+      "trainingType": ["hipertrofia"],
+      "estimatedDuration": "45-60 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "10-12 por brazo",
+        "intermediate": "12-15 por brazo",
+        "advanced": "15-18 por brazo"
+      }
+    },
+    {
+      "id": "triceps-20",
+      "name": "Extensiones de Tríceps en Banco con Cuerda",
+      "description": "Sentado en banco, realizar extensiones de tríceps con cuerda en polea baja.",
+      "image": "/imgs/ejercicios/triceps-20.png",
+      "muscleGroup": "triceps",
+      "specificMuscles": ["tríceps cabeza larga", "tríceps cabeza lateral"],
+      "equipment": ["máquina de poleas", "cuerda", "banco"],
+      "difficulty": "intermedia",
+      "trainingType": ["hipertrofia"],
+      "estimatedDuration": "40-50 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "12-15",
+        "intermediate": "15-18",
+        "advanced": "18-20"
+      }
+    },
+    {
+      "id": "triceps-21",
+      "name": "Press Cerrado con Mancuernas",
+      "description": "Press de banca con mancuernas y agarre cerrado.",
+      "image": "/imgs/ejercicios/triceps-21.png",
+      "muscleGroup": "triceps",
+      "specificMuscles": ["tríceps cabeza lateral", "tríceps cabeza medial", "pectoral mayor"],
+      "equipment": ["mancuernas", "banco plano"],
+      "difficulty": "intermedia",
+      "trainingType": ["fuerza", "hipertrofia"],
+      "estimatedDuration": "45-60 segundos por serie",
+      "recommendedSets": 4,
+      "recommendedReps": {
+        "beginner": "8-10",
+        "intermediate": "10-12",
+        "advanced": "12-15"
+      }
+    },
+    {
+      "id": "triceps-22",
+      "name": "Extensiones de Tríceps en Polea con Agarre Invertido",
+      "description": "Extensiones en polea alta con agarre supino.",
+      "image": "/imgs/ejercicios/triceps-22.png",
+      "muscleGroup": "triceps",
+      "specificMuscles": ["tríceps cabeza lateral", "tríceps cabeza medial"],
+      "equipment": ["máquina de poleas"],
+      "difficulty": "intermedia",
+      "trainingType": ["hipertrofia"],
+      "estimatedDuration": "40-50 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "12-15",
+        "intermediate": "15-18",
+        "advanced": "18-20"
+      }
+    },
+    {
+      "id": "triceps-23",
+      "name": "Extensiones de Tríceps en Banco con Barra Z",
+      "description": "Extensiones de tríceps tumbado usando barra Z.",
+      "image": "/imgs/ejercicios/triceps-23.png",
+      "muscleGroup": "triceps",
+      "specificMuscles": ["tríceps cabeza larga", "tríceps cabeza lateral"],
+      "equipment": ["barra Z", "banco plano"],
+      "difficulty": "intermedia",
+      "trainingType": ["hipertrofia"],
+      "estimatedDuration": "45-60 segundos por serie",
+      "recommendedSets": 4,
+      "recommendedReps": {
+        "beginner": "10-12",
+        "intermediate": "12-15",
+        "advanced": "15-18"
+      }
+    },
+    {
+      "id": "triceps-24",
+      "name": "Extensiones de Tríceps en Polea Alta con Cuerda trasnuca",
+      "description": "Extensiones con cuerda dando un paso atrás para mayor tensión.",
+      "image": "/imgs/ejercicios/triceps-24.png",
+      "muscleGroup": "triceps",
+      "specificMuscles": ["tríceps cabeza larga", "tríceps cabeza lateral"],
+      "equipment": ["máquina de poleas", "cuerda"],
+      "difficulty": "avanzada",
+      "trainingType": ["hipertrofia"],
+      "estimatedDuration": "40-50 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "no recomendado",
+        "intermediate": "12-15",
+        "advanced": "15-18"
+      }
+    },
+    {
+      "id": "triceps-25",
+      "name": "Extensiones de Tríceps en Banco con Mancuerna tras Nuca",
+      "description": "Extensiones de tríceps llevando la mancuerna detrás de la cabeza.",
+      "image": "/imgs/ejercicios/triceps-25.png",
+      "muscleGroup": "triceps",
+      "specificMuscles": ["tríceps cabeza larga"],
+      "equipment": ["mancuerna", "banco"],
+      "difficulty": "avanzada",
+      "trainingType": ["hipertrofia"],
+      "estimatedDuration": "40-50 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "no recomendado",
+        "intermediate": "10-12",
+        "advanced": "12-15"
+      }
+    },
+    {
+      "id": "triceps-26",
+      "name": "Fondos en Paralelas",
+      "description": "Fondos en barras paralelas enfocando el trabajo en tríceps.",
+      "image": "/imgs/ejercicios/triceps-26.png",
+      "muscleGroup": "triceps",
+      "specificMuscles": ["tríceps cabeza lateral", "tríceps cabeza medial", "pectoral mayor"],
+      "equipment": ["barras paralelas"],
+      "difficulty": "avanzada",
+      "trainingType": ["fuerza", "hipertrofia"],
+      "estimatedDuration": "30-45 segundos por serie",
+      "recommendedSets": 4,
+      "recommendedReps": {
+        "beginner": "no recomendado",
+        "intermediate": "8-12",
+        "advanced": "12-15"
+      }
+    },
+    {
+      "id": "triceps-27",
+      "name": "Extensiones de Tríceps en Polea con Movimiento Arco",
+      "description": "Extensiones realizando un movimiento en arco para mayor tensión constante.",
+      "image": "/imgs/ejercicios/triceps-27.png",
+      "muscleGroup": "triceps",
+      "specificMuscles": ["tríceps cabeza lateral", "tríceps cabeza medial"],
+      "equipment": ["máquina de poleas"],
+      "difficulty": "intermedia",
+      "trainingType": ["hipertrofia"],
+      "estimatedDuration": "40-50 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "12-15",
+        "intermediate": "15-18",
+        "advanced": "18-20"
+      }
+    },
+    {
+      "id": "triceps-28",
+      "name": "Press Francés con Banda Elástica",
+      "description": "Press francés utilizando banda elástica para resistencia variable.",
+      "image": "/imgs/ejercicios/triceps-28.png",
+      "muscleGroup": "triceps",
+      "specificMuscles": ["tríceps cabeza larga", "tríceps cabeza lateral"],
+      "equipment": ["banda elástica"],
+      "difficulty": "principiante",
+      "trainingType": ["hipertrofia", "resistencia"],
+      "estimatedDuration": "40-50 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "15-20",
+        "intermediate": "20-25",
+        "advanced": "25-30"
+      }
+    },
+    {
+      "id": "triceps-29",
+      "name": "Extensiones de Tríceps en Polea con Pausa",
+      "description": "Extensiones con pausa isométrica en la posición de máxima contracción.",
+      "image": "/imgs/ejercicios/triceps-29.png",
+      "muscleGroup": "triceps",
+      "specificMuscles": ["tríceps cabeza lateral", "tríceps cabeza medial"],
+      "equipment": ["máquina de poleas"],
+      "difficulty": "intermedia",
+      "trainingType": ["hipertrofia"],
+      "estimatedDuration": "45-60 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "10-12",
+        "intermediate": "12-15",
+        "advanced": "15-18"
+      }
+    },
+    {
+      "id": "triceps-30",
+      "name": "Extensiones de Tríceps en Smith",
+      "description": "Extensiones de tríceps usando la máquina Smith con banco inclinado.",
+      "image": "/imgs/ejercicios/triceps-30.png",
+      "muscleGroup": "triceps",
+      "specificMuscles": ["tríceps cabeza larga", "tríceps cabeza lateral"],
+      "equipment": ["máquina Smith", "banco inclinado"],
+      "difficulty": "avanzada",
+      "trainingType": ["hipertrofia"],
+      "estimatedDuration": "45-60 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "no recomendado",
+        "intermediate": "10-12",
+        "advanced": "12-15"
+      }
+    },
+    {
+      "id": "legs-1",
+      "name": "Sentadilla con Barra",
+      "description": "Ejercicio básico de piernas con barra sobre los trapecios, flexionando rodillas y caderas.",
+      "image": "/imgs/ejercicios/legs-1.png",
+      "muscleGroup": "piernas",
+      "specificMuscles": ["cuádriceps", "glúteos", "isquiotibiales", "aductores"],
+      "equipment": ["barra", "discos", "rack de sentadillas"],
+      "difficulty": "intermedia",
+      "trainingType": ["fuerza", "hipertrofia"],
+      "estimatedDuration": "60-75 segundos por serie",
+      "recommendedSets": 4,
+      "recommendedReps": {
+        "beginner": "8-10",
+        "intermediate": "10-12",
+        "advanced": "12-15"
+      }
+    },
+    {
+      "id": "legs-2",
+      "name": "Peso Muerto",
+      "description": "Levantamiento de barra desde el suelo trabajando toda la cadena posterior.",
+      "image": "/imgs/ejercicios/legs-2.png",
+      "muscleGroup": "piernas",
+      "specificMuscles": ["isquiotibiales", "glúteos", "espalda baja", "trapecio"],
+      "equipment": ["barra", "discos"],
+      "difficulty": "avanzada",
+      "trainingType": ["fuerza", "hipertrofia"],
+      "estimatedDuration": "45-60 segundos por serie",
+      "recommendedSets": 4,
+      "recommendedReps": {
+        "beginner": "6-8",
+        "intermediate": "8-10",
+        "advanced": "10-12"
+      }
+    },
+    {
+      "id": "legs-3",
+      "name": "Prensa de Piernas",
+      "description": "Ejercicio en máquina empujando el peso con las piernas.",
+      "image": "/imgs/ejercicios/legs-3.png",
+      "muscleGroup": "piernas",
+      "specificMuscles": ["cuádriceps", "glúteos", "isquiotibiales"],
+      "equipment": ["máquina de prensa"],
+      "difficulty": "principiante",
+      "trainingType": ["hipertrofia"],
+      "estimatedDuration": "45-60 segundos por serie",
+      "recommendedSets": 4,
+      "recommendedReps": {
+        "beginner": "12-15",
+        "intermediate": "15-20",
+        "advanced": "20-25"
+      }
+    },
+    {
+      "id": "legs-4",
+      "name": "Extensiones de Cuádriceps",
+      "description": "Ejercicio de aislamiento para cuádriceps en máquina.",
+      "image": "/imgs/ejercicios/legs-4.png",
+      "muscleGroup": "piernas",
+      "specificMuscles": ["cuádriceps"],
+      "equipment": ["máquina de extensiones"],
+      "difficulty": "principiante",
+      "trainingType": ["hipertrofia"],
+      "estimatedDuration": "40-50 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "12-15",
+        "intermediate": "15-20",
+        "advanced": "20-25"
+      }
+    },
+    {
+      "id": "legs-5",
+      "name": "Curl de Isquiotibiales",
+      "description": "Ejercicio de aislamiento para isquiotibiales en máquina.",
+      "image": "/imgs/ejercicios/legs-5.png",
+      "muscleGroup": "piernas",
+      "specificMuscles": ["isquiotibiales"],
+      "equipment": ["máquina de curl"],
+      "difficulty": "principiante",
+      "trainingType": ["hipertrofia"],
+      "estimatedDuration": "40-50 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "12-15",
+        "intermediate": "15-20",
+        "advanced": "20-25"
+      }
+    },
+    {
+      "id": "legs-6",
+      "name": "Elevación de Pantorrillas de Pie en Máquina",
+      "description": "Ejercicio para desarrollar los gemelos en posición de pie en máquina.",
+      "image": "/imgs/ejercicios/legs-6.png",
+      "muscleGroup": "piernas",
+      "specificMuscles": ["gemelos", "sóleo"],
+      "equipment": ["máquina de gemelos"],
+      "difficulty": "principiante",
+      "trainingType": ["hipertrofia"],
+      "estimatedDuration": "30-40 segundos por serie",
+      "recommendedSets": 4,
+      "recommendedReps": {
+        "beginner": "15-20",
+        "intermediate": "20-25",
+        "advanced": "25-30"
+      }
+    },
+    {
+      "id": "legs-7",
+      "name": "Zancadas con Mancuernas",
+      "description": "Paso hacia adelante sosteniendo mancuernas, alternando piernas.",
+      "image": "/imgs/ejercicios/legs-7.png",
+      "muscleGroup": "piernas",
+      "specificMuscles": ["cuádriceps", "glúteos", "isquiotibiales"],
+      "equipment": ["mancuernas"],
+      "difficulty": "intermedia",
+      "trainingType": ["hipertrofia", "resistencia"],
+      "estimatedDuration": "45-60 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "10-12 por pierna",
+        "intermediate": "12-15 por pierna",
+        "advanced": "15-20 por pierna"
+      }
+    },
+    {
+      "id": "legs-8",
+      "name": "Hip Thrust",
+      "description": "Elevación de cadera con barra apoyada en banco.",
+      "image": "/imgs/ejercicios/legs-8.png",
+      "muscleGroup": "piernas",
+      "specificMuscles": ["glúteos", "isquiotibiales"],
+      "equipment": ["barra", "banco", "discos"],
+      "difficulty": "intermedia",
+      "trainingType": ["hipertrofia"],
+      "estimatedDuration": "45-60 segundos por serie",
+      "recommendedSets": 4,
+      "recommendedReps": {
+        "beginner": "10-12",
+        "intermediate": "12-15",
+        "advanced": "15-20"
+      }
+    },
+    {
+      "id": "legs-9",
+      "name": "Sentadilla Búlgara",
+      "description": "Sentadilla a una pierna con pie trasero elevado en banco.",
+      "image": "/imgs/ejercicios/legs-9.png",
+      "muscleGroup": "piernas",
+      "specificMuscles": ["cuádriceps", "glúteos", "isquiotibiales"],
+      "equipment": ["mancuernas", "banco"],
+      "difficulty": "avanzada",
+      "trainingType": ["fuerza", "hipertrofia"],
+      "estimatedDuration": "45-60 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "8-10 por pierna",
+        "intermediate": "10-12 por pierna",
+        "advanced": "12-15 por pierna"
+      }
+    },
+    {
+      "id": "legs-10",
+      "name": "Sentadilla Hack",
+      "description": "Sentadilla en máquina con peso guiado.",
+      "image": "/imgs/ejercicios/legs-10.png",
+      "muscleGroup": "piernas",
+      "specificMuscles": ["cuádriceps", "glúteos"],
+      "equipment": ["máquina hack"],
+      "difficulty": "intermedia",
+      "trainingType": ["hipertrofia"],
+      "estimatedDuration": "45-60 segundos por serie",
+      "recommendedSets": 4,
+      "recommendedReps": {
+        "beginner": "10-12",
+        "intermediate": "12-15",
+        "advanced": "15-20"
+      }
+    },
+    {
+      "id": "legs-11",
+      "name": "Peso Muerto Rumano",
+      "description": "Variación del peso muerto enfocada en isquiotibiales.",
+      "image": "/imgs/ejercicios/legs-11.png",
+      "muscleGroup": "piernas",
+      "specificMuscles": ["isquiotibiales", "glúteos", "espalda baja"],
+      "equipment": ["barra", "discos"],
+      "difficulty": "intermedia",
+      "trainingType": ["fuerza", "hipertrofia"],
+      "estimatedDuration": "45-60 segundos por serie",
+      "recommendedSets": 4,
+      "recommendedReps": {
+        "beginner": "8-10",
+        "intermediate": "10-12",
+        "advanced": "12-15"
+      }
+    },
+    {
+      "id": "legs-12",
+      "name": "Abductores en Máquina",
+      "description": "Ejercicio de aislamiento para músculos abductores de cadera.",
+      "image": "/imgs/ejercicios/legs-12.png",
+      "muscleGroup": "piernas",
+      "specificMuscles": ["abductores", "glúteo medio"],
+      "equipment": ["máquina de abductores"],
+      "difficulty": "principiante",
+      "trainingType": ["hipertrofia"],
+      "estimatedDuration": "40-50 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "15-20",
+        "intermediate": "20-25",
+        "advanced": "25-30"
+      }
+    },
+    {
+      "id": "legs-13",
+      "name": "Aductores en Máquina",
+      "description": "Ejercicio de aislamiento para músculos aductores de cadera.",
+      "image": "/imgs/ejercicios/legs-13.png",
+      "muscleGroup": "piernas",
+      "specificMuscles": ["aductores"],
+      "equipment": ["máquina de aductores"],
+      "difficulty": "principiante",
+      "trainingType": ["hipertrofia"],
+      "estimatedDuration": "40-50 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "15-20",
+        "intermediate": "20-25",
+        "advanced": "25-30"
+      }
+    },
+    {
+      "id": "legs-14",
+      "name": "Sentadilla Sumo",
+      "description": "Sentadilla con stance ancho y pies rotados hacia afuera.",
+      "image": "/imgs/ejercicios/legs-14.png",
+      "muscleGroup": "piernas",
+      "specificMuscles": ["cuádriceps", "glúteos", "aductores"],
+      "equipment": ["barra", "discos"],
+      "difficulty": "intermedia",
+      "trainingType": ["fuerza", "hipertrofia"],
+      "estimatedDuration": "45-60 segundos por serie",
+      "recommendedSets": 4,
+      "recommendedReps": {
+        "beginner": "8-10",
+        "intermediate": "10-12",
+        "advanced": "12-15"
+      }
+    },
+    {
+      "id": "legs-15",
+      "name": "Elevación de Talones Sentado",
+      "description": "Ejercicio para gemelos en posición sentada.",
+      "image": "/imgs/ejercicios/legs-15.png",
+      "muscleGroup": "piernas",
+      "specificMuscles": ["sóleo", "gemelos"],
+      "equipment": ["máquina de gemelos sentado"],
+      "difficulty": "principiante",
+      "trainingType": ["hipertrofia"],
+      "estimatedDuration": "30-40 segundos por serie",
+      "recommendedSets": 4,
+      "recommendedReps": {
+        "beginner": "15-20",
+        "intermediate": "20-25",
+        "advanced": "25-30"
+      }
+    },
+    {
+      "id": "legs-16",
+      "name": "Sentadilla en Smith",
+      "description": "Sentadilla realizada en máquina Smith para mayor estabilidad y control.",
+      "image": "/imgs/ejercicios/legs-16.png",
+      "muscleGroup": "piernas",
+      "specificMuscles": ["cuádriceps", "glúteos", "isquiotibiales"],
+      "equipment": ["máquina Smith"],
+      "difficulty": "principiante",
+      "trainingType": ["hipertrofia"],
+      "estimatedDuration": "45-60 segundos por serie",
+      "recommendedSets": 4,
+      "recommendedReps": {
+        "beginner": "12-15",
+        "intermediate": "15-18",
+        "advanced": "18-20"
+      }
+    },
+    {
+      "id": "legs-17",
+      "name": "Peso Muerto a Una Pierna",
+      "description": "Peso muerto realizado con una sola pierna para mayor balance y activación.",
+      "image": "/imgs/ejercicios/legs-17.png",
+      "muscleGroup": "piernas",
+      "specificMuscles": ["isquiotibiales", "glúteos", "core"],
+      "equipment": ["mancuernas"],
+      "difficulty": "avanzada",
+      "trainingType": ["fuerza", "balance"],
+      "estimatedDuration": "40-50 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "8-10 por pierna",
+        "intermediate": "10-12 por pierna",
+        "advanced": "12-15 por pierna"
+      }
+    },
+    {
+      "id": "legs-18",
+      "name": "Sentadilla con Salto",
+      "description": "Sentadilla explosiva con salto vertical al final del movimiento.",
+      "image": "/imgs/ejercicios/legs-18.png",
+      "muscleGroup": "piernas",
+      "specificMuscles": ["cuádriceps", "glúteos", "gemelos"],
+      "equipment": ["ninguno"],
+      "difficulty": "intermedia",
+      "trainingType": ["potencia", "cardio"],
+      "estimatedDuration": "30-40 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "8-10",
+        "intermediate": "10-12",
+        "advanced": "12-15"
+      }
+    },
+    {
+      "id": "legs-19",
+      "name": "Prensa de Piernas Unilateral",
+      "description": "Prensa de piernas realizada con una sola pierna.",
+      "image": "/imgs/ejercicios/legs-19.png",
+      "muscleGroup": "piernas",
+      "specificMuscles": ["cuádriceps", "glúteos", "isquiotibiales"],
+      "equipment": ["máquina de prensa"],
+      "difficulty": "intermedia",
+      "trainingType": ["hipertrofia"],
+      "estimatedDuration": "40-50 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "10-12 por pierna",
+        "intermediate": "12-15 por pierna",
+        "advanced": "15-18 por pierna"
+      }
+    },
+    {
+      "id": "legs-20",
+      "name": "Zancadas Laterales",
+      "description": "Zancadas realizadas hacia los lados para trabajar diferentes ángulos.",
+      "image": "/imgs/ejercicios/legs-20.png",
+      "muscleGroup": "piernas",
+      "specificMuscles": ["cuádriceps", "glúteos", "aductores"],
+      "equipment": ["mancuernas"],
+      "difficulty": "intermedia",
+      "trainingType": ["hipertrofia", "movilidad"],
+      "estimatedDuration": "45-60 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "10-12 por lado",
+        "intermediate": "12-15 por lado",
+        "advanced": "15-18 por lado"
+      }
+    },
+    {
+      "id": "legs-21",
+      "name": "Sissy Squat",
+      "description": "Sentadilla con énfasis en cuádriceps, inclinando el torso hacia atrás.",
+      "image": "/imgs/ejercicios/legs-21.png",
+      "muscleGroup": "piernas",
+      "specificMuscles": ["cuádriceps"],
+      "equipment": ["soporte o pared"],
+      "difficulty": "avanzada",
+      "trainingType": ["hipertrofia"],
+      "estimatedDuration": "30-40 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "no recomendado",
+        "intermediate": "8-12",
+        "advanced": "12-15"
+      }
+    },
+    {
+      "id": "legs-22",
+      "name": "Elevación de Talones en Prensa",
+      "description": "Ejercicio para gemelos utilizando la máquina de prensa.",
+      "image": "/imgs/ejercicios/legs-22.png",
+      "muscleGroup": "piernas",
+      "specificMuscles": ["gemelos", "sóleo"],
+      "equipment": ["máquina de prensa"],
+      "difficulty": "principiante",
+      "trainingType": ["hipertrofia"],
+      "estimatedDuration": "40-50 segundos por serie",
+      "recommendedSets": 4,
+      "recommendedReps": {
+        "beginner": "15-20",
+        "intermediate": "20-25",
+        "advanced": "25-30"
+      }
+    },
+    {
+      "id": "legs-23",
+      "name": "Good Morning",
+      "description": "Flexión de cadera con barra en la espalda.",
+      "image": "/imgs/ejercicios/legs-23.png",
+      "muscleGroup": "piernas",
+      "specificMuscles": ["isquiotibiales", "glúteos", "espalda baja"],
+      "equipment": ["barra"],
+      "difficulty": "intermedia",
+      "trainingType": ["fuerza"],
+      "estimatedDuration": "45-60 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "8-10",
+        "intermediate": "10-12",
+        "advanced": "12-15"
+      }
+    },
+    {
+      "id": "legs-24",
+      "name": "Sentadilla Goblet",
+      "description": "Sentadilla sosteniendo una mancuerna o kettlebell frente al pecho.",
+      "image": "/imgs/ejercicios/legs-24.png",
+      "muscleGroup": "piernas",
+      "specificMuscles": ["cuádriceps", "glúteos", "core"],
+      "equipment": ["mancuerna", "kettlebell"],
+      "difficulty": "principiante",
+      "trainingType": ["hipertrofia", "resistencia"],
+      "estimatedDuration": "40-50 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "12-15",
+        "intermediate": "15-20",
+        "advanced": "20-25"
+      }
+    },
+    {
+      "id": "legs-25",
+      "name": "Step-Up con Mancuernas",
+      "description": "Subida a banco o plataforma con peso adicional.",
+      "image": "/imgs/ejercicios/legs-25.png",
+      "muscleGroup": "piernas",
+      "specificMuscles": ["cuádriceps", "glúteos"],
+      "equipment": ["mancuernas", "banco o plataforma"],
+      "difficulty": "intermedia",
+      "trainingType": ["hipertrofia", "resistencia"],
+      "estimatedDuration": "45-60 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "10-12 por pierna",
+        "intermediate": "12-15 por pierna",
+        "advanced": "15-20 por pierna"
+      }
+    },
+    {
+      "id": "legs-26",
+      "name": "Sentadilla Zercher",
+      "description": "Sentadilla sosteniendo la barra en el pliegue de los codos.",
+      "image": "/imgs/ejercicios/legs-26.png",
+      "muscleGroup": "piernas",
+      "specificMuscles": ["cuádriceps", "glúteos", "core", "isquiotibiales"],
+      "equipment": ["barra"],
+      "difficulty": "avanzada",
+      "trainingType": ["fuerza", "hipertrofia"],
+      "estimatedDuration": "45-60 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "no recomendado",
+        "intermediate": "8-10",
+        "advanced": "10-12"
+      }
+    },
+    {
+      "id": "legs-27",
+      "name": "Puente de Glúteos con Banda",
+      "description": "Elevación de cadera con banda elástica sobre las caderas.",
+      "image": "/imgs/ejercicios/legs-27.png",
+      "muscleGroup": "piernas",
+      "specificMuscles": ["glúteos", "isquiotibiales"],
+      "equipment": ["banda elástica", "banco"],
+      "difficulty": "principiante",
+      "trainingType": ["hipertrofia", "activación"],
+      "estimatedDuration": "40-50 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "15-20",
+        "intermediate": "20-25",
+        "advanced": "25-30"
+      }
+    },
+    {
+      "id": "legs-28",
+      "name": "Caminata del Granjero",
+      "description": "Caminata cargando peso pesado en ambas manos.",
+      "image": "/imgs/ejercicios/legs-28.png",
+      "muscleGroup": "piernas",
+      "specificMuscles": ["cuádriceps", "glúteos", "core", "antebrazos"],
+      "equipment": ["mancuernas pesadas", "kettlebells"],
+      "difficulty": "intermedia",
+      "trainingType": ["fuerza", "resistencia"],
+      "estimatedDuration": "30-45 segundos por serie",
+      "recommendedSets": 4,
+      "recommendedReps": {
+        "beginner": "30-40 segundos",
+        "intermediate": "45-60 segundos",
+        "advanced": "60-90 segundos"
+      }
+    },
+    {
+      "id": "legs-29",
+      "name": "Sentadilla con Barra Frontal",
+      "description": "Sentadilla con la barra apoyada en la parte frontal de los hombros.",
+      "image": "/imgs/ejercicios/legs-29.png",
+      "muscleGroup": "piernas",
+      "specificMuscles": ["cuádriceps", "glúteos", "core"],
+      "equipment": ["barra"],
+      "difficulty": "avanzada",
+      "trainingType": ["fuerza", "hipertrofia"],
+      "estimatedDuration": "45-60 segundos por serie",
+      "recommendedSets": 4,
+      "recommendedReps": {
+        "beginner": "6-8",
+        "intermediate": "8-10",
+        "advanced": "10-12"
+      }
+    },
+    {
+      "id": "legs-30",
+      "name": "Zancadas Caminando",
+      "description": "Zancadas avanzando hacia adelante alternando piernas.",
+      "image": "/imgs/ejercicios/legs-30.png",
+      "muscleGroup": "piernas",
+      "specificMuscles": ["cuádriceps", "glúteos", "isquiotibiales"],
+      "equipment": ["mancuernas", "barra"],
+      "difficulty": "intermedia",
+      "trainingType": ["hipertrofia", "resistencia"],
+      "estimatedDuration": "45-60 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "10 pasos por pierna",
+        "intermediate": "15 pasos por pierna",
+        "advanced": "20 pasos por pierna"
+      }
+    },
+    {
+      "id": "legs-31",
+      "name": "Sentadilla con Banda de Resistencia",
+      "description": "Sentadilla tradicional con banda elástica alrededor de las rodillas.",
+      "image": "/imgs/ejercicios/legs-31.png",
+      "muscleGroup": "piernas",
+      "specificMuscles": ["cuádriceps", "glúteos", "abductores"],
+      "equipment": ["banda elástica"],
+      "difficulty": "principiante",
+      "trainingType": ["hipertrofia", "activación"],
+      "estimatedDuration": "40-50 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "12-15",
+        "intermediate": "15-20",
+        "advanced": "20-25"
+      }
+    },
+    {
+      "id": "legs-32",
+      "name": "Peso Muerto con Piernas Rígidas",
+      "description": "Variación del peso muerto manteniendo las piernas casi rectas.",
+      "image": "/imgs/ejercicios/legs-32.png",
+      "muscleGroup": "piernas",
+      "specificMuscles": ["isquiotibiales", "glúteos", "espalda baja"],
+      "equipment": ["barra", "discos"],
+      "difficulty": "avanzada",
+      "trainingType": ["fuerza", "hipertrofia"],
+      "estimatedDuration": "45-60 segundos por serie",
+      "recommendedSets": 4,
+      "recommendedReps": {
+        "beginner": "8-10",
+        "intermediate": "10-12",
+        "advanced": "12-15"
+      }
+    },
+    {
+      "id": "legs-33",
+      "name": "Patada de Glúteos en Polea",
+      "description": "Extensión de cadera en polea baja para aislamiento de glúteos.",
+      "image": "/imgs/ejercicios/legs-33.png",
+      "muscleGroup": "piernas",
+      "specificMuscles": ["glúteos"],
+      "equipment": ["máquina de poleas"],
+      "difficulty": "principiante",
+      "trainingType": ["hipertrofia"],
+      "estimatedDuration": "30-40 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "12-15 por pierna",
+        "intermediate": "15-20 por pierna",
+        "advanced": "20-25 por pierna"
+      }
+    },
+    {
+      "id": "legs-34",
+      "name": "Sentadilla Pliométrica",
+      "description": "Sentadilla explosiva con énfasis en la velocidad y potencia.",
+      "image": "/imgs/ejercicios/legs-34.png",
+      "muscleGroup": "piernas",
+      "specificMuscles": ["cuádriceps", "glúteos", "gemelos"],
+      "equipment": ["ninguno"],
+      "difficulty": "avanzada",
+      "trainingType": ["potencia", "cardio"],
+      "estimatedDuration": "30-40 segundos por serie",
+      "recommendedSets": 4,
+      "recommendedReps": {
+        "beginner": "6-8",
+        "intermediate": "8-12",
+        "advanced": "12-15"
+      }
+    },
+    {
+      "id": "legs-35",
+      "name": "Elevación de Talones en Escalón",
+      "description": "Elevación de talones en escalón para mayor rango de movimiento.",
+      "image": "/imgs/ejercicios/legs-35.png",
+      "muscleGroup": "piernas",
+      "specificMuscles": ["gemelos", "sóleo"],
+      "equipment": ["escalón o plataforma"],
+      "difficulty": "principiante",
+      "trainingType": ["hipertrofia"],
+      "estimatedDuration": "40-50 segundos por serie",
+      "recommendedSets": 4,
+      "recommendedReps": {
+        "beginner": "15-20",
+        "intermediate": "20-25",
+        "advanced": "25-30"
+      }
+    },
+    {
+      "id": "legs-36",
+      "name": "Tijeras con Salto",
+      "description": "Saltos alternando piernas en posición de tijera.",
+      "image": "/imgs/ejercicios/legs-36.png",
+      "muscleGroup": "piernas",
+      "specificMuscles": ["cuádriceps", "glúteos", "gemelos"],
+      "equipment": ["ninguno"],
+      "difficulty": "avanzada",
+      "trainingType": ["potencia", "cardio"],
+      "estimatedDuration": "30-40 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "8-10 por pierna",
+        "intermediate": "10-12 por pierna",
+        "advanced": "12-15 por pierna"
+      }
+    },
+    {
+      "id": "legs-37",
+      "name": "Extensión de Cadera en Máquina",
+      "description": "Extensión de cadera en máquina específica para glúteos.",
+      "image": "/imgs/ejercicios/legs-37.png",
+      "muscleGroup": "piernas",
+      "specificMuscles": ["glúteos", "isquiotibiales"],
+      "equipment": ["máquina de extensión de cadera"],
+      "difficulty": "principiante",
+      "trainingType": ["hipertrofia"],
+      "estimatedDuration": "40-50 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "12-15 por pierna",
+        "intermediate": "15-20 por pierna",
+        "advanced": "20-25 por pierna"
+      }
+    },
+    {
+      "id": "legs-38",
+      "name": "Sentadilla con Salto a Caja",
+      "description": "Salto explosivo desde posición de sentadilla hacia una plataforma elevada.",
+      "image": "/imgs/ejercicios/legs-38.png",
+      "muscleGroup": "piernas",
+      "specificMuscles": ["cuádriceps", "glúteos", "gemelos"],
+      "equipment": ["caja o plataforma elevada"],
+      "difficulty": "intermedia",
+      "trainingType": ["potencia", "explosividad"],
+      "estimatedDuration": "30-40 segundos por serie",
+      "recommendedSets": 4,
+      "recommendedReps": {
+        "beginner": "6-8",
+        "intermediate": "8-10",
+        "advanced": "10-12"
+      }
+    },
+    {
+      "id": "legs-39",
+      "name": "Peso Muerto Sumo",
+      "description": "Variante del peso muerto con postura más amplia y agarre interno.",
+      "image": "/imgs/ejercicios/legs-39.png",
+      "muscleGroup": "piernas",
+      "specificMuscles": ["glúteos", "aductores", "cuádriceps"],
+      "equipment": ["barra", "discos"],
+      "difficulty": "avanzada",
+      "trainingType": ["fuerza", "hipertrofia"],
+      "estimatedDuration": "45-60 segundos por serie",
+      "recommendedSets": 4,
+      "recommendedReps": {
+        "beginner": "6-8",
+        "intermediate": "8-10",
+        "advanced": "10-12"
+      }
+    },
+    {
+      "id": "legs-40",
+      "name": "Elevación de Talones con Mancuerna",
+      "description": "Elevación de talones unilateral con mancuerna.",
+      "image": "/imgs/ejercicios/legs-40.png",
+      "muscleGroup": "piernas",
+      "specificMuscles": ["gemelos", "sóleo"],
+      "equipment": ["mancuerna"],
+      "difficulty": "principiante",
+      "trainingType": ["hipertrofia", "resistencia"],
+      "estimatedDuration": "40-50 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "12-15 por pierna",
+        "intermediate": "15-20 por pierna",
+        "advanced": "20-25 por pierna"
+      }
+    },
+    {
+      "id": "legs-41",
+      "name": "Sentadilla Isométrica en Pared",
+      "description": "Mantener posición de sentadilla con espalda apoyada en pared.",
+      "image": "/imgs/ejercicios/legs-41.png",
+      "muscleGroup": "piernas",
+      "specificMuscles": ["cuádriceps", "glúteos"],
+      "equipment": ["ninguno"],
+      "difficulty": "principiante",
+      "trainingType": ["resistencia", "isométrico"],
+      "estimatedDuration": "30-60 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "20-30 segundos",
+        "intermediate": "30-45 segundos",
+        "advanced": "45-60 segundos"
+      }
+    },
+    {
+      "id": "legs-42",
+      "name": "Sentadilla con Kettlebell Overhead",
+      "description": "Sentadilla sosteniendo kettlebell sobre la cabeza.",
+      "image": "/imgs/ejercicios/legs-42.png",
+      "muscleGroup": "piernas",
+      "specificMuscles": ["cuádriceps", "glúteos", "core", "hombros"],
+      "equipment": ["kettlebell"],
+      "difficulty": "avanzada",
+      "trainingType": ["fuerza", "estabilidad"],
+      "estimatedDuration": "40-50 segundos por serie",
+      "recommendedSets": 4,
+      "recommendedReps": {
+        "beginner": "no recomendado",
+        "intermediate": "8-10",
+        "advanced": "10-12"
+      }
+    },
+    {
+      "id": "legs-43",
+      "name": "Elevación de Talones con Barra",
+      "description": "Elevación de talones con barra sobre los trapecios.",
+      "image": "/imgs/ejercicios/legs-43.png",
+      "muscleGroup": "piernas",
+      "specificMuscles": ["gemelos", "sóleo"],
+      "equipment": ["barra", "plataforma elevada"],
+      "difficulty": "intermedia",
+      "trainingType": ["hipertrofia"],
+      "estimatedDuration": "40-50 segundos por serie",
+      "recommendedSets": 4,
+      "recommendedReps": {
+        "beginner": "12-15",
+        "intermediate": "15-20",
+        "advanced": "20-25"
+      }
+    },
+    {
+      "id": "legs-44",
+      "name": "Sentadilla en Bosu",
+      "description": "Sentadilla realizada sobre pelota Bosu para mayor inestabilidad.",
+      "image": "/imgs/ejercicios/legs-44.png",
+      "muscleGroup": "piernas",
+      "specificMuscles": ["cuádriceps", "glúteos", "core", "estabilizadores"],
+      "equipment": ["bosu"],
+      "difficulty": "avanzada",
+      "trainingType": ["estabilidad", "balance"],
+      "estimatedDuration": "40-50 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "8-10",
+        "intermediate": "10-12",
+        "advanced": "12-15"
+      }
+    },
+    {
+      "id": "legs-45",
+      "name": "Peso Muerto con Kettlebell",
+      "description": "Peso muerto utilizando kettlebell entre las piernas.",
+      "image": "/imgs/ejercicios/legs-45.png",
+      "muscleGroup": "piernas",
+      "specificMuscles": ["isquiotibiales", "glúteos", "espalda baja"],
+      "equipment": ["kettlebell"],
+      "difficulty": "principiante",
+      "trainingType": ["fuerza", "hipertrofia"],
+      "estimatedDuration": "40-50 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "12-15",
+        "intermediate": "15-18",
+        "advanced": "18-20"
+      }
+    },
+    {
+      "id": "abs-1",
+      "name": "Crunch Básico",
+      "description": "Elevación del torso desde posición supina, contrayendo los abdominales.",
+      "image": "/imgs/ejercicios/abs-1.png",
+      "muscleGroup": "abdominales",
+      "specificMuscles": ["recto abdominal"],
+      "equipment": ["ninguno"],
+      "difficulty": "principiante",
+      "trainingType": ["hipertrofia", "resistencia"],
+      "estimatedDuration": "30-40 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "12-15",
+        "intermediate": "15-20",
+        "advanced": "20-25"
+      }
+    },
+    {
+      "id": "abs-2",
+      "name": "Plancha Frontal",
+      "description": "Mantener posición de plancha apoyado en antebrazos y pies.",
+      "image": "/imgs/ejercicios/abs-2.png",
+      "muscleGroup": "abdominales",
+      "specificMuscles": ["recto abdominal", "transverso", "oblicuos"],
+      "equipment": ["ninguno"],
+      "difficulty": "principiante",
+      "trainingType": ["resistencia", "estabilidad"],
+      "estimatedDuration": "30-60 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "20-30 segundos",
+        "intermediate": "30-45 segundos",
+        "advanced": "60+ segundos"
+      }
+    },
+    {
+      "id": "abs-3",
+      "name": "Russian Twist",
+      "description": "Rotación del torso con piernas elevadas, sosteniendo peso opcional.",
+      "image": "/imgs/ejercicios/abs-3.png",
+      "muscleGroup": "abdominales",
+      "specificMuscles": ["oblicuos", "recto abdominal"],
+      "equipment": ["disco", "mancuerna (opcional)"],
+      "difficulty": "intermedia",
+      "trainingType": ["hipertrofia", "resistencia"],
+      "estimatedDuration": "30-45 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "10 por lado",
+        "intermediate": "15 por lado",
+        "advanced": "20 por lado"
+      }
+    },
+    {
+      "id": "abs-4",
+      "name": "Elevación de Piernas en Suelo",
+      "description": "Elevación de piernas rectas desde posición supina.",
+      "image": "/imgs/ejercicios/abs-4.png",
+      "muscleGroup": "abdominales",
+      "specificMuscles": ["recto abdominal inferior", "flexores de cadera"],
+      "equipment": ["ninguno"],
+      "difficulty": "principiante",
+      "trainingType": ["hipertrofia"],
+      "estimatedDuration": "30-40 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "10-12",
+        "intermediate": "12-15",
+        "advanced": "15-20"
+      }
+    },
+    {
+      "id": "abs-5",
+      "name": "Rueda Abdominal",
+      "description": "Rodamiento hacia adelante y atrás con rueda abdominal.",
+      "image": "/imgs/ejercicios/abs-5.png",
+      "muscleGroup": "abdominales",
+      "specificMuscles": ["recto abdominal", "transverso", "core"],
+      "equipment": ["rueda abdominal"],
+      "difficulty": "avanzada",
+      "trainingType": ["fuerza", "estabilidad"],
+      "estimatedDuration": "30-45 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "5-8",
+        "intermediate": "8-12",
+        "advanced": "12-15"
+      }
+    },
+    {
+      "id": "abs-6",
+      "name": "Crunch Bicicleta",
+      "description": "Elevación alternada de rodillas hacia el codo opuesto en movimiento de pedaleo.",
+      "image": "/imgs/ejercicios/abs-6.png",
+      "muscleGroup": "abdominales",
+      "specificMuscles": ["recto abdominal", "oblicuos"],
+      "equipment": ["ninguno"],
+      "difficulty": "intermedia",
+      "trainingType": ["hipertrofia", "resistencia"],
+      "estimatedDuration": "30-45 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "10 por lado",
+        "intermediate": "15 por lado",
+        "advanced": "20 por lado"
+      }
+    },
+    {
+      "id": "abs-7",
+      "name": "Dragon Flag",
+      "description": "Elevación del cuerpo manteniendo una línea recta, apoyando solo los hombros.",
+      "image": "/imgs/ejercicios/abs-7.png",
+      "muscleGroup": "abdominales",
+      "specificMuscles": ["recto abdominal", "transverso", "oblicuos", "core"],
+      "equipment": ["banco"],
+      "difficulty": "avanzada",
+      "trainingType": ["fuerza"],
+      "estimatedDuration": "30-40 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "no recomendado",
+        "intermediate": "3-5",
+        "advanced": "5-8"
+      }
+    },
+    {
+      "id": "abs-8",
+      "name": "Hollow Hold",
+      "description": "Mantener posición hueca con brazos y piernas elevados.",
+      "image": "/imgs/ejercicios/abs-8.png",
+      "muscleGroup": "abdominales",
+      "specificMuscles": ["recto abdominal", "transverso", "core"],
+      "equipment": ["ninguno"],
+      "difficulty": "intermedia",
+      "trainingType": ["resistencia", "estabilidad"],
+      "estimatedDuration": "20-45 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "15-20 segundos",
+        "intermediate": "30-45 segundos",
+        "advanced": "60 segundos"
+      }
+    },
+    {
+      "id": "abs-9",
+      "name": "Crunch con Cable",
+      "description": "Crunch realizado en polea alta para resistencia constante.",
+      "image": "/imgs/ejercicios/abs-9.png",
+      "muscleGroup": "abdominales",
+      "specificMuscles": ["recto abdominal"],
+      "equipment": ["máquina de poleas"],
+      "difficulty": "intermedia",
+      "trainingType": ["hipertrofia"],
+      "estimatedDuration": "40-50 segundos por serie",
+      "recommendedSets": 4,
+      "recommendedReps": {
+        "beginner": "12-15",
+        "intermediate": "15-20",
+        "advanced": "20-25"
+      }
+    },
+    {
+      "id": "abs-10",
+      "name": "Plancha Lateral con Rotación",
+      "description": "Plancha lateral con movimiento de rotación y extensión del brazo.",
+      "image": "/imgs/ejercicios/abs-10.png",
+      "muscleGroup": "abdominales",
+      "specificMuscles": ["oblicuos", "transverso", "core"],
+      "equipment": ["ninguno"],
+      "difficulty": "intermedia",
+      "trainingType": ["estabilidad", "resistencia"],
+      "estimatedDuration": "30-45 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "8-10 por lado",
+        "intermediate": "12-15 por lado",
+        "advanced": "15-20 por lado"
+      }
+    },
+    {
+      "id": "abs-11",
+      "name": "Crunch Declinado con Peso",
+      "description": "Crunch en banco declinado sosteniendo peso en el pecho.",
+      "image": "/imgs/ejercicios/abs-11.png",
+      "muscleGroup": "abdominales",
+      "specificMuscles": ["recto abdominal superior"],
+      "equipment": ["banco declinado", "disco"],
+      "difficulty": "avanzada",
+      "trainingType": ["hipertrofia", "fuerza"],
+      "estimatedDuration": "40-50 segundos por serie",
+      "recommendedSets": 4,
+      "recommendedReps": {
+        "beginner": "10-12",
+        "intermediate": "12-15",
+        "advanced": "15-20"
+      }
+    },
+    {
+      "id": "abs-12",
+      "name": "Palanca Frontal",
+      "description": "Mantener el cuerpo horizontal sujetándose de una barra baja.",
+      "image": "/imgs/ejercicios/abs-12.png",
+      "muscleGroup": "abdominales",
+      "specificMuscles": ["recto abdominal", "core", "dorsal"],
+      "equipment": ["barra fija"],
+      "difficulty": "avanzada",
+      "trainingType": ["fuerza", "isométrico"],
+      "estimatedDuration": "15-30 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "no recomendado",
+        "intermediate": "5-10 segundos",
+        "advanced": "10-20 segundos"
+      }
+    },
+    {
+      "id": "abs-13",
+      "name": "Rollout en Pelota de Estabilidad",
+      "description": "Rodamiento hacia adelante sobre pelota de estabilidad.",
+      "image": "/imgs/ejercicios/abs-13.png",
+      "muscleGroup": "abdominales",
+      "specificMuscles": ["recto abdominal", "transverso", "core"],
+      "equipment": ["pelota de estabilidad"],
+      "difficulty": "intermedia",
+      "trainingType": ["estabilidad", "hipertrofia"],
+      "estimatedDuration": "30-45 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "8-10",
+        "intermediate": "10-12",
+        "advanced": "12-15"
+      }
+    },
+    {
+      "id": "abs-14",
+      "name": "Crunch V con Banda",
+      "description": "Elevación simultánea de piernas y torso con banda elástica.",
+      "image": "/imgs/ejercicios/abs-14.png",
+      "muscleGroup": "abdominales",
+      "specificMuscles": ["recto abdominal", "flexores de cadera"],
+      "equipment": ["banda elástica"],
+      "difficulty": "intermedia",
+      "trainingType": ["hipertrofia", "resistencia"],
+      "estimatedDuration": "30-40 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "10-12",
+        "intermediate": "12-15",
+        "advanced": "15-20"
+      }
+    },
+    {
+      "id": "abs-15",
+      "name": "Plancha con Deslizadores",
+      "description": "Plancha con movimientos de piernas usando deslizadores.",
+      "image": "/imgs/ejercicios/abs-15.png",
+      "muscleGroup": "abdominales",
+      "specificMuscles": ["recto abdominal", "oblicuos", "core"],
+      "equipment": ["deslizadores"],
+      "difficulty": "avanzada",
+      "trainingType": ["estabilidad", "resistencia"],
+      "estimatedDuration": "30-45 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "8-10 por lado",
+        "intermediate": "10-12 por lado",
+        "advanced": "12-15 por lado"
+      }
+    },
+    {
+      "id": "abs-16",
+      "name": "Elevaciones de Piernas en Barra",
+      "description": "Colgado de una barra, elevar las piernas hasta la horizontal o más arriba.",
+      "image": "/imgs/ejercicios/abs-16.png",
+      "muscleGroup": "abdominales",
+      "specificMuscles": ["recto abdominal inferior", "flexores de cadera", "core"],
+      "equipment": ["barra fija"],
+      "difficulty": "avanzada",
+      "trainingType": ["fuerza", "hipertrofia"],
+      "estimatedDuration": "30-45 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "8-10",
+        "intermediate": "10-12",
+        "advanced": "12-15"
+      }
+    },
+    {
+      "id": "abs-17",
+      "name": "Plancha con Elevación Alternada",
+      "description": "En posición de plancha, elevar alternadamente brazos y piernas opuestos.",
+      "image": "/imgs/ejercicios/abs-17.png",
+      "muscleGroup": "abdominales",
+      "specificMuscles": ["core", "recto abdominal", "estabilizadores"],
+      "equipment": ["ninguno"],
+      "difficulty": "intermedia",
+      "trainingType": ["estabilidad", "resistencia"],
+      "estimatedDuration": "30-45 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "8-10 por lado",
+        "intermediate": "10-15 por lado",
+        "advanced": "15-20 por lado"
+      }
+    },
+    {
+      "id": "abs-18",
+      "name": "Crunch Inverso en TRX",
+      "description": "Crunch inverso suspendido en TRX llevando rodillas al pecho.",
+      "image": "/imgs/ejercicios/abs-18.png",
+      "muscleGroup": "abdominales",
+      "specificMuscles": ["recto abdominal inferior", "oblicuos", "core"],
+      "equipment": ["TRX"],
+      "difficulty": "avanzada",
+      "trainingType": ["fuerza", "estabilidad"],
+      "estimatedDuration": "30-45 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "8-10",
+        "intermediate": "10-12",
+        "advanced": "12-15"
+      }
+    },
+    {
+      "id": "abs-19",
+      "name": "Windshield Wipers",
+      "description": "Colgado de barra, mover piernas de lado a lado manteniendo elevación.",
+      "image": "/imgs/ejercicios/abs-19.png",
+      "muscleGroup": "abdominales",
+      "specificMuscles": ["oblicuos", "recto abdominal", "core"],
+      "equipment": ["barra fija"],
+      "difficulty": "avanzada",
+      "trainingType": ["fuerza", "estabilidad"],
+      "estimatedDuration": "30-45 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "no recomendado",
+        "intermediate": "6-8 por lado",
+        "advanced": "8-10 por lado"
+      }
+    },
+    {
+      "id": "abs-20",
+      "name": "Crunch con Soga en Polea Alta",
+      "description": "Crunch de rodillas de espaldas a polea alta.",
+      "image": "/imgs/ejercicios/abs-20.png",
+      "muscleGroup": "abdominales",
+      "specificMuscles": ["recto abdominal superior", "oblicuos"],
+      "equipment": ["máquina de poleas"],
+      "difficulty": "intermedia",
+      "trainingType": ["hipertrofia"],
+      "estimatedDuration": "40-50 segundos por serie",
+      "recommendedSets": 4,
+      "recommendedReps": {
+        "beginner": "12-15",
+        "intermediate": "15-20",
+        "advanced": "20-25"
+      }
+    },
+    {
+      "id": "abs-21",
+      "name": "L-Sit",
+      "description": "Mantener el cuerpo suspendido con piernas extendidas paralelas al suelo.",
+      "image": "/imgs/ejercicios/abs-21.png",
+      "muscleGroup": "abdominales",
+      "specificMuscles": ["recto abdominal", "flexores de cadera", "core"],
+      "equipment": ["paralelas o suelo"],
+      "difficulty": "avanzada",
+      "trainingType": ["fuerza", "isométrico"],
+      "estimatedDuration": "15-30 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "5-10 segundos",
+        "intermediate": "10-20 segundos",
+        "advanced": "20-30 segundos"
+      }
+    },
+    {
+      "id": "abs-22",
+      "name": "Crunch con Rotación en Fitball",
+      "description": "Crunch sobre pelota de ejercicio con movimiento de rotación.",
+      "image": "/imgs/ejercicios/abs-22.png",
+      "muscleGroup": "abdominales",
+      "specificMuscles": ["recto abdominal", "oblicuos"],
+      "equipment": ["fitball"],
+      "difficulty": "intermedia",
+      "trainingType": ["hipertrofia", "estabilidad"],
+      "estimatedDuration": "30-45 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "10-12 por lado",
+        "intermediate": "12-15 por lado",
+        "advanced": "15-20 por lado"
+      }
+    },
+    {
+      "id": "abs-23",
+      "name": "Plancha con Knee Tucks",
+      "description": "En posición de plancha, llevar rodillas alternadamente hacia el pecho.",
+      "image": "/imgs/ejercicios/abs-23.png",
+      "muscleGroup": "abdominales",
+      "specificMuscles": ["recto abdominal", "core"],
+      "equipment": ["ninguno"],
+      "difficulty": "intermedia",
+      "trainingType": ["resistencia", "hipertrofia"],
+      "estimatedDuration": "30-45 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "10-12",
+        "intermediate": "12-15",
+        "advanced": "15-20"
+      }
+    },
+    {
+      "id": "abs-24",
+      "name": "Scissors",
+      "description": "Movimiento de tijera con piernas extendidas en el aire.",
+      "image": "/imgs/ejercicios/abs-24.png",
+      "muscleGroup": "abdominales",
+      "specificMuscles": ["recto abdominal inferior", "flexores de cadera"],
+      "equipment": ["ninguno"],
+      "difficulty": "intermedia",
+      "trainingType": ["resistencia", "hipertrofia"],
+      "estimatedDuration": "30-45 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "20-30 segundos",
+        "intermediate": "30-45 segundos",
+        "advanced": "45-60 segundos"
+      }
+    },
+    {
+      "id": "abs-25",
+      "name": "Plancha con Rotación en TRX",
+      "description": "Plancha suspendida en TRX con movimiento de rotación.",
+      "image": "/imgs/ejercicios/abs-25.png",
+      "muscleGroup": "abdominales",
+      "specificMuscles": ["oblicuos", "core", "estabilizadores"],
+      "equipment": ["TRX"],
+      "difficulty": "avanzada",
+      "trainingType": ["estabilidad", "fuerza"],
+      "estimatedDuration": "30-45 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "6-8 por lado",
+        "intermediate": "8-10 por lado",
+        "advanced": "10-12 por lado"
+      }
+    },
+    {
+      "id": "abs-26",
+      "name": "Crunch Invertido en Banco",
+      "description": "Elevación de cadera y pelvis desde posición colgante en banco",
+      "image": "/imgs/ejercicios/abs-26.png",
+      "muscleGroup": "abdominales",
+      "specificMuscles": ["recto abdominal inferior", "oblicuos"],
+      "equipment": ["banco"],
+      "difficulty": "intermedia",
+      "trainingType": ["hipertrofia", "fuerza"],
+      "estimatedDuration": "30-45 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "10-12",
+        "intermediate": "12-15",
+        "advanced": "15-20"
+      }
+    },
+    {
+      "id": "abs-27",
+      "name": "Copenhagen Plank",
+      "description": "Plancha lateral elevada con apoyo de pie en banco o soporte",
+      "image": "/imgs/ejercicios/abs-27.png",
+      "muscleGroup": "abdominales",
+      "specificMuscles": ["oblicuos", "transverso", "aductores"],
+      "equipment": ["banco o soporte elevado"],
+      "difficulty": "avanzada",
+      "trainingType": ["estabilidad", "fuerza"],
+      "estimatedDuration": "20-40 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "10-15 segundos por lado",
+        "intermediate": "20-30 segundos por lado",
+        "advanced": "30-40 segundos por lado"
+      }
+    },
+    {
+      "id": "abs-28",
+      "name": "Dead Bug",
+      "description": "Ejercicio de estabilización extendiendo brazo y pierna contrarios",
+      "image": "/imgs/ejercicios/abs-28.png",
+      "muscleGroup": "abdominales",
+      "specificMuscles": ["recto abdominal", "transverso", "core"],
+      "equipment": ["ninguno"],
+      "difficulty": "principiante",
+      "trainingType": ["estabilidad", "control motor"],
+      "estimatedDuration": "30-45 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "8-10 por lado",
+        "intermediate": "10-12 por lado",
+        "advanced": "12-15 por lado"
+      }
+    },
+    {
+      "id": "abs-29",
+      "name": "Toes to Bar",
+      "description": "Elevación de pies hasta tocar la barra desde posición colgante",
+      "image": "/imgs/ejercicios/abs-29.png",
+      "muscleGroup": "abdominales",
+      "specificMuscles": ["recto abdominal", "flexores de cadera", "core"],
+      "equipment": ["barra fija"],
+      "difficulty": "avanzada",
+      "trainingType": ["fuerza", "potencia"],
+      "estimatedDuration": "30-45 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "no recomendado",
+        "intermediate": "5-8",
+        "advanced": "8-12"
+      }
+    },
+    {
+      "id": "abs-30",
+      "name": "Pallof Press",
+      "description": "Press horizontal con cable o banda manteniendo core estable",
+      "image": "/imgs/ejercicios/abs-30.png",
+      "muscleGroup": "abdominales",
+      "specificMuscles": ["oblicuos", "transverso", "core"],
+      "equipment": ["cable o banda elástica"],
+      "difficulty": "intermedia",
+      "trainingType": ["estabilidad", "anti-rotación"],
+      "estimatedDuration": "30-45 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "8-10 por lado",
+        "intermediate": "10-12 por lado",
+        "advanced": "12-15 por lado"
+      }
+    },
+    {
+      "id": "aerobics-1",
+      "name": "Saltar la soga",
+      "description": "Ejercicio aeróbico de alta intensidad que mejora la coordinación y resistencia cardiovascular.",
+      "image": "/imgs/ejercicios/aerobics-1.png",
+      "muscleGroup": "aerobicos",
+      "specificMuscles": ["pantorrillas", "cuádriceps", "isquiotibiales"],
+      "equipment": ["soga"],
+      "difficulty": "intermedia",
+      "trainingType": ["cardio", "resistencia"],
+      "estimatedDuration": "30-60 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "30 seg",
+        "intermediate": "45 seg",
+        "advanced": "60 seg"
+      }
+    },
+    {
+      "id": "aerobics-2",
+      "name": "Burpees",
+      "description": "Ejercicio explosivo de cuerpo completo que combina fuerza y resistencia cardiovascular.",
+      "image": "/imgs/ejercicios/aerobics-2.png",
+      "muscleGroup": "aerobicos",
+      "specificMuscles": ["pecho", "piernas", "core", "hombros"],
+      "equipment": ["ninguno"],
+      "difficulty": "avanzada",
+      "trainingType": ["cardio", "resistencia", "explosividad"],
+      "estimatedDuration": "20-40 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "8 repeticiones",
+        "intermediate": "12 repeticiones",
+        "advanced": "15 repeticiones"
+      }
+    },
+    {
+      "id": "aerobics-3",
+      "name": "Jumping Jacks",
+      "description": "Ejercicio aeróbico clásico que mejora la resistencia cardiovascular y la coordinación.",
+      "image": "/imgs/ejercicios/aerobics-3.png",
+      "muscleGroup": "aerobicos",
+      "specificMuscles": ["piernas", "hombros", "core"],
+      "equipment": ["ninguno"],
+      "difficulty": "principiante",
+      "trainingType": ["cardio", "resistencia"],
+      "estimatedDuration": "30-60 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "30 seg",
+        "intermediate": "45 seg",
+        "advanced": "60 seg"
+      }
+    },
+    {
+      "id": "aerobics-4",
+      "name": "Mountain Climbers",
+      "description": "Ejercicio dinámico que activa el core y mejora la resistencia cardiovascular.",
+      "image": "/imgs/ejercicios/aerobics-4.png",
+      "muscleGroup": "aerobicos",
+      "specificMuscles": ["abdominales", "hombros", "piernas"],
+      "equipment": ["ninguno"],
+      "difficulty": "intermedia",
+      "trainingType": ["cardio", "resistencia", "explosividad"],
+      "estimatedDuration": "20-40 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "20 seg",
+        "intermediate": "30 seg",
+        "advanced": "40 seg"
+      }
+    },
+    {
+      "id": "aerobics-5",
+      "name": "Rodillas al Pecho",
+      "description": "Ejercicio de alto impacto que mejora la resistencia y fortalece el core.",
+      "image": "/imgs/ejercicios/aerobics-5.png",
+      "muscleGroup": "aerobicos",
+      "specificMuscles": ["cuádriceps", "core", "pantorrillas"],
+      "equipment": ["ninguno"],
+      "difficulty": "intermedia",
+      "trainingType": ["cardio", "resistencia"],
+      "estimatedDuration": "30-45 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "20 seg",
+        "intermediate": "30 seg",
+        "advanced": "45 seg"
+      }
+    },
+    {
+      "id": "aerobics-6",
+      "name": "Estocadas con Salto",
+      "description": "Ejercicio explosivo que fortalece las piernas y mejora la capacidad cardiovascular.",
+      "image": "/imgs/ejercicios/aerobics-6.png",
+      "muscleGroup": "aerobicos",
+      "specificMuscles": ["glúteos", "cuádriceps", "pantorrillas"],
+      "equipment": ["ninguno"],
+      "difficulty": "avanzada",
+      "trainingType": ["cardio", "explosividad"],
+      "estimatedDuration": "20-40 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "8 repeticiones por pierna",
+        "intermediate": "10 repeticiones por pierna",
+        "advanced": "12 repeticiones por pierna"
+      }
+    },
+    {
+      "id": "aerobics-7",
+      "name": "Trote en el lugar",
+      "description": "Ejercicio aeróbico simple que mejora la resistencia y la circulación.",
+      "image": "/imgs/ejercicios/aerobics-7.png",
+      "muscleGroup": "aerobicos",
+      "specificMuscles": ["cuádriceps", "isquiotibiales", "pantorrillas"],
+      "equipment": ["ninguno"],
+      "difficulty": "principiante",
+      "trainingType": ["cardio"],
+      "estimatedDuration": "30-60 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "30 seg",
+        "intermediate": "45 seg",
+        "advanced": "60 seg"
+      }
+    },
+    {
+      "id": "aerobics-8",
+      "name": "Saltos Laterales",
+      "description": "Ejercicio pliométrico que mejora la agilidad y la resistencia cardiovascular.",
+      "image": "/imgs/ejercicios/aerobics-8.png",
+      "muscleGroup": "aerobicos",
+      "specificMuscles": ["glúteos", "core", "cuádriceps"],
+      "equipment": ["ninguno"],
+      "difficulty": "intermedia",
+      "trainingType": ["cardio", "agilidad"],
+      "estimatedDuration": "20-40 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "15 repeticiones",
+        "intermediate": "20 repeticiones",
+        "advanced": "25 repeticiones"
+      }
+    },
+    {
+      "id": "aerobics-9",
+      "name": "Subida a Banco",
+      "description": "Ejercicio aeróbico que fortalece piernas y glúteos mientras mejora la resistencia.",
+      "image": "/imgs/ejercicios/aerobics-9.png",
+      "muscleGroup": "aerobicos",
+      "specificMuscles": ["cuádriceps", "glúteos", "pantorrillas"],
+      "equipment": ["banco"],
+      "difficulty": "principiante",
+      "trainingType": ["cardio", "resistencia"],
+      "estimatedDuration": "20-40 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "10 repeticiones por pierna",
+        "intermediate": "12 repeticiones por pierna",
+        "advanced": "15 repeticiones por pierna"
+      }
+    },
+    {
+      "id": "aerobics-10",
+      "name": "Shadow Boxing",
+      "description": "Ejercicio aeróbico que simula movimientos de boxeo, mejorando la resistencia y coordinación.",
+      "image": "/imgs/ejercicios/aerobics-10.png",
+      "muscleGroup": "aerobicos",
+      "specificMuscles": ["hombros", "core", "brazos"],
+      "equipment": ["ninguno"],
+      "difficulty": "intermedia",
+      "trainingType": ["cardio", "coordinación"],
+      "estimatedDuration": "30-60 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "30 seg",
+        "intermediate": "45 seg",
+        "advanced": "60 seg"
+      }
+    },
+    {
+      "id": "aerobics-11",
+      "name": "Trote ligero",
+      "description": "Ejercicio aeróbico básico que mejora la resistencia cardiovascular y la circulación.",
+      "image": "/imgs/ejercicios/aerobics-11.png",
+      "muscleGroup": "aerobicos",
+      "specificMuscles": ["cuádriceps", "pantorrillas", "glúteos"],
+      "equipment": ["ninguno"],
+      "difficulty": "principiante",
+      "trainingType": ["cardio", "resistencia"],
+      "estimatedDuration": "5-10 minutos",
+      "recommendedSets": 1,
+      "recommendedReps": {
+        "beginner": "5 min",
+        "intermediate": "7 min",
+        "advanced": "10 min"
+      }
+    },
+    {
+      "id": "aerobics-12",
+      "name": "Carrera en intervalos",
+      "description": "Alterna entre correr a alta intensidad y caminar para mejorar la capacidad cardiovascular.",
+      "image": "/imgs/ejercicios/aerobics-12.png",
+      "muscleGroup": "aerobicos",
+      "specificMuscles": ["cuádriceps", "pantorrillas", "glúteos"],
+      "equipment": ["ninguno"],
+      "difficulty": "intermedia",
+      "trainingType": ["cardio", "resistencia", "explosividad"],
+      "estimatedDuration": "10-20 minutos",
+      "recommendedSets": 1,
+      "recommendedReps": {
+        "beginner": "30 seg rápido / 60 seg caminata (5 repeticiones)",
+        "intermediate": "45 seg rápido / 45 seg caminata (6 repeticiones)",
+        "advanced": "60 seg rápido / 30 seg caminata (8 repeticiones)"
+      }
+    },
+    {
+      "id": "aerobics-13",
+      "name": "Sprint",
+      "description": "Correr a máxima velocidad durante cortos periodos de tiempo para mejorar la potencia y resistencia.",
+      "image": "/imgs/ejercicios/aerobics-13.png",
+      "muscleGroup": "aerobicos",
+      "specificMuscles": ["cuádriceps", "isquiotibiales", "pantorrillas"],
+      "equipment": ["ninguno"],
+      "difficulty": "avanzada",
+      "trainingType": ["cardio", "explosividad"],
+      "estimatedDuration": "10-20 minutos",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "10 seg sprint / 30 seg descanso (5 repeticiones)",
+        "intermediate": "15 seg sprint / 30 seg descanso (6 repeticiones)",
+        "advanced": "20 seg sprint / 30 seg descanso (8 repeticiones)"
+      }
+    },
+    {
+      "id": "aerobics-14",
+      "name": "Bicicleta estática",
+      "description": "Ejercicio de bajo impacto que mejora la resistencia y fortalece las piernas.",
+      "image": "/imgs/ejercicios/aerobics-14.png",
+      "muscleGroup": "aerobicos",
+      "specificMuscles": ["cuádriceps", "glúteos", "pantorrillas"],
+      "equipment": ["bicicleta estática"],
+      "difficulty": "principiante",
+      "trainingType": ["cardio", "resistencia"],
+      "estimatedDuration": "10-30 minutos",
+      "recommendedSets": 1,
+      "recommendedReps": {
+        "beginner": "10 min ritmo moderado",
+        "intermediate": "20 min ritmo moderado",
+        "advanced": "30 min con intervalos de intensidad"
+      }
+    },
+    {
+      "id": "aerobics-15",
+      "name": "Bicicleta de montaña",
+      "description": "Ejercicio aeróbico que combina resistencia con fuerza al pedalear en distintos terrenos.",
+      "image": "/imgs/ejercicios/aerobics-15.png",
+      "muscleGroup": "aerobicos",
+      "specificMuscles": ["cuádriceps", "glúteos", "pantorrillas"],
+      "equipment": ["bicicleta"],
+      "difficulty": "avanzada",
+      "trainingType": ["cardio", "resistencia", "fuerza"],
+      "estimatedDuration": "20-60 minutos",
+      "recommendedSets": 1,
+      "recommendedReps": {
+        "beginner": "20 min en terreno plano",
+        "intermediate": "40 min con inclinaciones suaves",
+        "advanced": "60 min con subidas y descensos"
+      }
+    },
+    {
+      "id": "aerobics-16",
+      "name": "Saltos de banco",
+      "description": "Ejercicio pliométrico que mejora la potencia de piernas y el ritmo cardíaco.",
+      "image": "/imgs/ejercicios/aerobics-16.png",
+      "muscleGroup": "aerobicos",
+      "specificMuscles": ["cuádriceps", "glúteos", "pantorrillas"],
+      "equipment": ["banco"],
+      "difficulty": "intermedia",
+      "trainingType": ["cardio", "explosividad"],
+      "estimatedDuration": "20-40 segundos por serie",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "8 repeticiones",
+        "intermediate": "12 repeticiones",
+        "advanced": "15 repeticiones"
+      }
+    },
+    {
+      "id": "aerobics-17",
+      "name": "Remo en máquina aeróbica",
+      "description": "Ejercicio aeróbico que trabaja la resistencia y fortalece la espalda y el core.",
+      "image": "/imgs/ejercicios/aerobics-17.png",
+      "muscleGroup": "aerobicos",
+      "specificMuscles": ["espalda", "piernas", "core"],
+      "equipment": ["máquina de remo"],
+      "difficulty": "intermedia",
+      "trainingType": ["cardio", "resistencia"],
+      "estimatedDuration": "10-20 minutos",
+      "recommendedSets": 1,
+      "recommendedReps": {
+        "beginner": "10 min a ritmo moderado",
+        "intermediate": "15 min con cambios de ritmo",
+        "advanced": "20 min con intervalos de alta intensidad"
+      }
+    },
+    {
+      "id": "aerobics-18",
+      "name": "Escaladora",
+      "description": "Ejercicio aeróbico que simula subir escaleras y fortalece las piernas.",
+      "image": "/imgs/ejercicios/aerobics-18.png",
+      "muscleGroup": "aerobicos",
+      "specificMuscles": ["glúteos", "cuádriceps", "pantorrillas"],
+      "equipment": ["máquina escaladora"],
+      "difficulty": "intermedia",
+      "trainingType": ["cardio", "resistencia"],
+      "estimatedDuration": "10-30 minutos",
+      "recommendedSets": 1,
+      "recommendedReps": {
+        "beginner": "10 min",
+        "intermediate": "20 min",
+        "advanced": "30 min con intervalos de intensidad"
+      }
+    },
+    {
+      "id": "aerobics-19",
+      "name": "Caminata inclinada",
+      "description": "Ejercicio aeróbico de bajo impacto en caminadora con inclinación para mayor esfuerzo.",
+      "image": "/imgs/ejercicios/aerobics-19.png",
+      "muscleGroup": "aerobicos",
+      "specificMuscles": ["glúteos", "cuádriceps", "pantorrillas"],
+      "equipment": ["caminadora"],
+      "difficulty": "principiante",
+      "trainingType": ["cardio", "resistencia"],
+      "estimatedDuration": "15-30 minutos",
+      "recommendedSets": 1,
+      "recommendedReps": {
+        "beginner": "15 min inclinación leve",
+        "intermediate": "20 min inclinación moderada",
+        "advanced": "30 min inclinación alta"
+      }
+    },
+    {
+      "id": "aerobics-20",
+      "name": "Circuito de cardio",
+      "description": "Combinación de ejercicios aeróbicos como saltos, burpees y trote para aumentar la resistencia. Hacer los ejercicios que prefieras.",
+      "image": "/imgs/ejercicios/aerobics-20.png",
+      "muscleGroup": "aerobicos",
+      "specificMuscles": ["piernas", "core", "brazos"],
+      "equipment": ["ninguno"],
+      "difficulty": "avanzada",
+      "trainingType": ["cardio", "resistencia"],
+      "estimatedDuration": "15-30 minutos",
+      "recommendedSets": 3,
+      "recommendedReps": {
+        "beginner": "3 rondas de 4 ejercicios",
+        "intermediate": "4 rondas de 5 ejercicios",
+        "advanced": "5 rondas de 6 ejercicios"
+      }
+    } 
+  ],
+  
+  "categories": {
+    "muscleGroups": [
+      "biceps",
+      "triceps",
+      "hombro",
+      "espalda",
+      "pecho",
+      "piernas",
+      "abdominales",
+      "aerobicos"
+    ],
+    "difficulties": [
+      "principiante",
+      "intermedia",
+      "avanzada"
+    ],
+    "trainingTypes": [
+      "cardio",
+      "hipertrofia",
+      "fuerza",
+      "resistencia"
+    ]
+  }
+} 

@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Optimizaciones de rendimiento */
+.scroll-touch {
+    -webkit-overflow-scrolling: touch;
+}
+
+
+
+/* Mensajes del chat */
+.chat-message {
+    word-wrap: break-word;      
+    overflow-wrap: break-word;  
+    white-space: pre-wrap;     
+    min-width: 0;              
+}
+
+/* Palabras largas sin espacios */
+.chat-message:matches(:has(> *:first-child:not(:last-child))) {
+    word-break: break-all;   
+}
+@supports not (selector(:has(*))) {
+    .chat-message > *:first-child:not(:last-child) {
+        word-break: break-all;
+    }
+}
